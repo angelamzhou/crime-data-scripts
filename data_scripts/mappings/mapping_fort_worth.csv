@@ -1,0 +1,33 @@
+﻿category_1,category_2,category_3,offense
+Violent,Homicide,Murder,09A
+Violent,Homicide,Manslaughter,09B
+Violent,Robbery,Robbery,120
+Violent,Assault,Aggravated Assault,13A
+Violent,Assault,Simple Assault,13B
+Violent,Assault,Simple Assault,13C
+Property,Burglary,Residential Burglary,220
+Property,Theft,Grand Larceny Auto,240
+Property,Theft,Grand Larceny,23A
+Property,Theft,Theft from Auto,23F
+Property,Theft,Theft from Auto,23G
+Property,Theft,Other Theft,23B
+Property,Theft,Other Theft,23C
+Property,Theft,Other Theft,23D
+Property,Theft,Other Theft,23E
+Property,Theft,Other Theft,23H
+Property,Theft,Other Theft,26A
+Property,Arson,Arson,200
+Property,Other Property Crime,Other Property Crime,290
+Property,Other Property Crime,Other Property Crime,280
+Drug,Drug,Drug,35A
+Drug,Drug,Drug,35B
+Property,White Collar,Counterfeiting,250
+Property,White Collar,Fraud,26B
+Property,White Collar,Fraud,26C
+Property,White Collar,Fraud,26E
+Property,White Collar,Fraud,26F
+Property,White Collar,Fraud,26G
+Property,White Collar,Embezzlement,270
+Gambling,Gambling,Gambling,39A
+Gambling,Gambling,Gambling,39B
+Gambling,Gambling,Gambling,TCG

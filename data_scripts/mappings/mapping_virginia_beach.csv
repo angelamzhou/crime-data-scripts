@@ -1,0 +1,57 @@
+﻿category_1,category_2,category_3,Offense Description
+Violent,Homicide,Murder,MURDER/ NONNEGLIGENT MANSLAUGHTER
+Violent,Homicide,Manslaughter,"AUTO FATALITY, NEGLIGENT"
+Violent,Rape,Rape,FORCIBLE RAPE
+Violent,Rape,Rape,FORCIBLE SODOMY
+Violent,Robbery,Robbery,ROBBERY
+Violent,Robbery,Robbery,"ROBBERY, ATM"
+Violent,Robbery,Robbery,"ROBBERY, CARJACKING"
+Violent,Assault,Aggravated Assault,"ASSAULT, AGGRAVATED"
+Violent,Assault,Aggravated Assault,"ASSAULT, AGGRAVATED/ ATMP MURDER"
+Violent,Assault,Aggravated Assault,"ASSAULT, AGGRAVATED, DOMESTIC"
+Violent,Assault,Simple Assault,"ASSAULT, SIMPLE, DOMESTIC"
+Violent,Assault,Simple Assault,"ASSAULT, SIMPLE"
+Property,Burglary,Residential Burglary,"BURGLARY/ B & E, RESIDENTIAL"
+Property,Burglary,Non-Residential Burglary,"BURGLARY/ B & E, COMMERCIAL"
+Property,Theft,Grand Larceny Auto,MOTOR VEHICLE THEFT
+Property,Theft,Theft from Auto,"LARCENY,OF M.V. PARTS OR ACCESSORIES"
+Property,Theft,Theft from Auto,"LARCENY, FROM MOTOR VEHICLE"
+Property,Theft,Unclassified,"LARCENY, ALL OTHERS"
+Property,Theft,Unclassified,"LARCENY, FROM BUILDING"
+Property,Theft,Unclassified,"LARCENY, SHOPLIFTING"
+Property,Theft,Unclassified,"LARCENY, FROM COIN-OP.MACHINE OR DEVICE"
+Property,Theft,Unclassified,"LARCENY, POCKET PICKING"
+Property,Theft,Unclassified,"LARCENY, PURSE SNATCHING"
+Property,Theft,Unclassified,"LARCENY, TAMPERING WITH U.S. MAIL"
+Property,Theft,Unclassified,"LARCENY, WATERCRAFT"
+Property,Arson,Arson,ARSON
+Property,Other Property Crime,Other Property Crime,TRESPASS OF REAL PROPERTY
+Property,Other Property Crime,Other Property Crime,"DESTRUCTION OF PROPERTY, PRIVATE - GRAFFITI"
+Property,Other Property Crime,Other Property Crime,"DESTRUCTION OF PROPERTY, PRIVATE PROPERTY"
+Property,Other Property Crime,Other Property Crime,"DESTRUCTION OF PROPERTY, CITY - GRAFFITI"
+Property,Other Property Crime,Other Property Crime,"DESTRUCTION OF PROPERTY, CITY PROPERTY"
+Property,Other Property Crime,Other Property Crime,LITTERING
+Property,Other Property Crime,Other Property Crime,STOLEN PROPERTY OFFENSES
+Drug,Drug,Drug,DRUG/ NARCOTIC VIOLATIONS
+Drug,Drug,Drug,DRUG/ EQUIPMENT VIOLATIONS
+Property,White Collar,Counterfeiting,"COUNTERFEITING/ FORGERY, ALL OTHERS"
+Property,White Collar,Counterfeiting,FORGERY BY CHECK
+Property,White Collar,Counterfeiting,FORGERY BY CREDIT CARD
+Property,White Collar,Counterfeiting,FORGERY BY MONEY ORDER
+Property,White Collar,Counterfeiting,FORGERY BY PERSCRIPTION
+Property,White Collar,Fraud,"FRAUD, IDENTITY THEFT"
+Property,White Collar,Fraud,"FRAUD, ALL OTHERS"
+Property,White Collar,Fraud,"FRAUD, INNKEEPER"
+Property,White Collar,Fraud,BAD CHECKS
+Property,White Collar,Fraud,BOOKMAKING/ NUMBERS
+Property,White Collar,Fraud,"FRAUD, AUTOMATIC TELLER"
+Property,White Collar,Fraud,"FRAUD, BY PRESCRIPTION"
+Property,White Collar,Fraud,"FRAUD, CREDIT CARD"
+Property,White Collar,Fraud,"FRAUD, E-COMMERCE"
+Property,White Collar,Fraud,"FRAUD, FLIM- FLAM"
+Property,White Collar,Fraud,"FRAUD, TRICK, FALSE PRETENSES"
+Property,White Collar,Fraud,"FRAUD, USE FALSE NAME"
+Property,White Collar,Fraud,"FRAUD, WELFARE"
+Property,White Collar,Fraud,"FRAUD, WIRE"
+Property,White Collar,Embezzlement,EMBEZZLEMENT
+Gambling,Gambling,Gambling,GAMBLING EQUIPMENT VIOLATIONS

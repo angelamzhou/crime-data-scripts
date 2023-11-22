@@ -1,0 +1,28 @@
+﻿category_1,category_2,category_3,Description
+Violent,Homicide,Unclassified,HOMICIDE
+Violent,Rape,Rape,SEXUAL OFFENSE
+Violent,Robbery,Robbery,ROBBERY
+Violent,Assault,Aggravated Assault,BATTERY
+Violent,Assault,Aggravated Assault,AGG ASSAULT
+Violent,Assault,Unclassified,ASSAULT
+Property,Burglary,Unclassified,BURGLARY
+Property,Burglary,Unclassified,BURGLARY VEH
+Property,Theft,Grand Larceny Auto,STOLEN VEHICLE
+Property,Theft,Grand Larceny Auto,AUTO THEFT
+Property,Theft,Grand Larceny,GRAND THEFT
+Property,Theft,Unclassified,THEFT
+Property,Theft,Unclassified,COMP THEFT
+Property,Theft,Unclassified,LARCENY
+Property,Theft,Unclassified,STOLEN PROP
+Property,Arson,Arson,ARSON
+Property,Other Property Crime,Other Property Crime,FORGERY
+Property,Other Property Crime,Other Property Crime,GRAFFITI
+Property,Other Property Crime,Other Property Crime,VANDALISM
+Property,Other Property Crime,Other Property Crime,TRESPASS
+Property,Other Property Crime,Other Property Crime,TREPASS
+Drug,Drug,Drug,NARCOTICS
+Drug,Drug,Drug,DANGEROUS DRUG
+Drug,Drug,Drug,NARCOTIC
+Drug,Drug,Drug,DANG DRUGS
+Property,White Collar,Fraud,FRAUD
+Property,White Collar,Embezzlement,EMBEZZLEMENT

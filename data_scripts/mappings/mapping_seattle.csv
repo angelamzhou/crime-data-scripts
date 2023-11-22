@@ -1,0 +1,38 @@
+﻿category_1,category_2,category_3,offense_parent_group,offense
+Violent,Homicide,Murder,HOMICIDE OFFENSES,Murder & Nonnegligent Manslaughter
+Violent,Homicide,Manslaughter,HOMICIDE OFFENSES,Negligent Manslaughter
+Violent,Rape,Rape,SEX OFFENSES,Rape
+Violent,Rape,Rape,SEX OFFENSES,Sodomy
+Violent,Robbery,Robbery,ROBBERY,Robbery
+Violent,Assault,Aggravated Assault,ASSAULT OFFENSES,Aggravated Assault
+Violent,Assault,Simple Assault,ASSAULT OFFENSES,Intimidation
+Violent,Assault,Simple Assault,ASSAULT OFFENSES,Simple Assault
+Property,Burglary,Unclassified,BURGLARY/BREAKING&ENTERING,Burglary/Breaking & Entering
+Property,Theft,Grand Larceny Auto,MOTOR VEHICLE THEFT,Motor Vehicle Theft
+Property,Theft,Theft from Auto,LARCENY-THEFT,Theft From Motor Vehicle
+Property,Theft,Theft from Auto,LARCENY-THEFT,Theft of Motor Vehicle Parts or Accessories
+Property,Theft,Unclassified,LARCENY-THEFT,All Other Larceny
+Property,Theft,Unclassified,LARCENY-THEFT,Pocket-picking
+Property,Theft,Unclassified,LARCENY-THEFT,Purse-snatching
+Property,Theft,Unclassified,LARCENY-THEFT,Shoplifting
+Property,Theft,Unclassified,LARCENY-THEFT,Theft From Building
+Property,Theft,Unclassified,LARCENY-THEFT,Theft From Coin-Operated Machine or Device
+Property,Arson,Arson,ARSON,Arson
+Property,Other Property Crime,Other Property Crime,DESTRUCTION/DAMAGE/VANDALISM OF PROPERTY,Destruction/Damage/Vandalism of Property
+Property,Other Property Crime,Other Property Crime,CURFEW/LOITERING/VAGRANCY VIOLATIONS,Curfew/Loitering/Vagrancy Violations
+Property,Other Property Crime,Other Property Crime,STOLEN PROPERTY OFFENSES,Stolen Property Offenses
+Property,Other Property Crime,Other Property Crime,TRESPASS OF REAL PROPERTY,Trespass of Real Property
+Drug,Drug,Drug,DRUG/NARCOTIC OFFENSES,Drug/Narcotic Violations
+Drug,Drug,Drug,DRUG/NARCOTIC OFFENSES,Drug Equipment Violations
+Property,White Collar,Counterfeiting,COUNTERFEITING/FORGERY,Counterfeiting/Forgery
+Property,White Collar,Embezzlement,EMBEZZLEMENT,Embezzlement
+Property,White Collar,Fraud,FRAUD OFFENSES,Credit Card/Automated Teller Machine Fraud
+Property,White Collar,Fraud,FRAUD OFFENSES,False Pretenses/Swindle/Confidence Game
+Property,White Collar,Fraud,FRAUD OFFENSES,Hacking/Computer Invasion
+Property,White Collar,Fraud,FRAUD OFFENSES,Identity Theft
+Property,White Collar,Fraud,FRAUD OFFENSES,Impersonation
+Property,White Collar,Fraud,FRAUD OFFENSES,Welfare Fraud
+Property,White Collar,Fraud,FRAUD OFFENSES,Wire Fraud
+Gambling,Gambling,Gambling,GAMBLING OFFENSES,Betting/Wagering
+Gambling,Gambling,Gambling,GAMBLING OFFENSES,Gambling Equipment Violation
+Gambling,Gambling,Gambling,GAMBLING OFFENSES,Operating/Promoting/Assisting Gambling

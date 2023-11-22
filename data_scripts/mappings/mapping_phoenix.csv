@@ -1,0 +1,10 @@
+﻿category_1,category_2,category_3,UCR CRIME CATEGORY
+Violent,Homicide,Unclassified,MURDER AND NON-NEGLIGENT MANSLAUGHTER
+Violent,Rape,Rape,RAPE
+Violent,Robbery,Robbery,ROBBERY
+Violent,Assault,Aggravated Assault,AGGRAVATED ASSAULT
+Property,Burglary,Unclassified,BURGLARY
+Property,Theft,Grand Larceny Auto,MOTOR VEHICLE THEFT
+Property,Theft,Unclassified,LARCENY-THEFT
+Property,Arson,Arson,ARSON
+Drug,Drug,Drug,DRUG OFFENSE

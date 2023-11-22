@@ -1,0 +1,21 @@
+﻿category_1,category_2,category_3,incident_category
+Violent,Homicide,Murder,Homicide
+Violent,Rape,Rape,Rape
+Violent,Robbery,Robbery,Robbery
+Violent,Assault,Unclassified,Assault
+Property,Burglary,Unclassified,Burglary
+Property,Theft,Grand Larceny Auto,Motor Vehicle Theft
+Property,Theft,Grand Larceny Auto,Recovered Vehicle
+Property,Theft,Grand Larceny Auto,Vehicle Misplaced
+Property,Theft,Grand Larceny Auto,Motor Vehicle Theft?
+Property,Theft,Unclassified,Larceny Theft
+Property,Arson,Arson,Arson
+Property,Other Property Crime,Other Property Crime,Malicious Mischief
+Property,Other Property Crime,Other Property Crime,Vandalism
+Property,Other Property Crime,Other Property Crime,Stolen Property
+Drug,Drug,Drug,Drug Offense
+Drug,Drug,Drug,Drug Violation
+Property,White Collar,Counterfeiting,Forgery And Counterfeiting
+Property,White Collar,Fraud,Fraud
+Property,White Collar,Embezzlement,Embezzlement
+Gambling,Gambling,Gambling,Gambling

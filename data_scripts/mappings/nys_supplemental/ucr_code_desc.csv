@@ -1,0 +1,51 @@
+﻿cd_type,UCR CODES,UCR DESCRIPTIONS
+UCR,1,Murder
+UCR,2,Non-Negligent Manslaughter
+UCR,3,Negligent Manslaughter
+UCR,4,Rape (Pre 2013)
+UCR,5,Robbery
+UCR,6,Aggravated Assault
+UCR,7,Burglary
+UCR,8,Larceny
+UCR,9,MV Theft
+UCR,10,Arson
+UCR,11,Kidnapping
+UCR,12,"Controlled Substance Sale: Opium, Cocaine, or Derivatives"
+UCR,13,Controlled Substance Sale: Marijuana
+UCR,14,Controlled Substance Sale: Synthetic Narcotics
+UCR,15,Controlled Substance Sale: Other
+UCR,16,"Controlled Substance Possession: Opium, Cocaine, or Derivatives"
+UCR,17,Controlled Substance Possession: Marijuana
+UCR,18,Controlled Substance Possession: Synthetic Narcotics
+UCR,19,Controlled Substance Possession: Other
+UCR,20,Dangerous Weapons
+UCR,21,Bribery
+UCR,22,Sex Offense (Except Rape or Prostitution)
+UCR,23,Extortion
+UCR,24,Forgery&Counterfeiting
+UCR,25,Promoting Prostitution
+UCR,26,Prostitution
+UCR,27,Patronizing Prostitutes
+UCR,28,Stolen Property
+UCR,29,Coercion
+UCR,30,Criminal Mischief
+UCR,31,Fraud
+UCR,32,Gambling - Bookmaking
+UCR,33,Gambling - Numbers and Lottery
+UCR,34,Gambling - Other
+UCR,35,Offenses Against Public Order
+UCR,36,Embezzlement
+UCR,37,Simple Assault
+UCR,38,Offenses Against the Family
+UCR,39,Driving Under The Influence - Alcohol
+UCR,40,Driving Under The Influence - Drugs
+UCR,41,Unauthorized Use Of Vehicle
+UCR,42,Possession Of Burglar's Tools
+UCR,43,All Other Offenses (Except Traffic)
+UCR,44,Liquor Law Violations
+UCR,45,Disorderly Conduct
+UCR,46,Public Narcotic Intoxication
+UCR,47,Loitering (Vagrancy)
+UCR,49,Runaway
+UCR,99,Unknown
+UCR,50,Rape (2013 Expanded)

@@ -1,0 +1,26 @@
+category_1,category_2,category_3,CVINC_TYPE
+Violent,Homicide,Murder,MURDER AND NONNEGLIGENT MANSLAUGHTER
+Violent,Robbery,Robbery,ROBBERY
+Violent,Assault,Aggravated Assault,AGGRAVATED ASSAULT
+Violent,Assault,Simple Assault,SIMPLE ASSAULT/BATTERY
+Property,Burglary,Non-Residential Burglary,COMMERCIAL BURGLARY
+Property,Burglary,Unclassified,AUTO BURGLARY
+Property,Burglary,Unclassified,BURGLARY/BREAKING AND ENTERING
+Property,Theft,Grand Larceny Auto,AUTO THEFT
+Property,Theft,Theft from Auto,THEFT FROM A MOTOR VEHICLE
+Property,Theft,Theft from Auto,THEFT OF MOTOR VEHICLE PARTS OR ACCESSORIE
+Property,Theft,Unclassified,LARCENY ALL OTHER
+Property,Theft,Unclassified,PICK POCKETING
+Property,Theft,Unclassified,PURSE SNATCHING
+Property,Theft,Unclassified,SHOPLIFTING
+Property,Theft,Unclassified,THEFT FROM A BUILDING
+Property,Theft,Unclassified,THEFT FROM COIN OPERATED MACHINE OR DEVICE
+Property,Arson,Arson,ARSON
+Property,Other Property Crime,Other Property Crime,"VANDALISM, MALICIOUS MISCHIEF, GRAFFITI"
+Drug,Drug,Drug,DRUG/NARCOTICS VIOLATIONS
+Drug,Drug,Drug,POSSESSION OF DRUG PARAPHERNALIA
+Property,White Collar,Counterfeiting,COUNTERFEITING/FORGERY
+Property,White Collar,Fraud,CREDIT CARD/ATM FRAUD
+Property,White Collar,Fraud,FRAUD
+Property,White Collar,Fraud,WIRE FRAUD
+Property,White Collar,Embezzlement,"EMBEZZLEMENT, MISAPPROPRIATION"

@@ -1,0 +1,169 @@
+﻿category_1,category_2,category_3,crime_type,ucr_code
+Violent,Homicide,Murder,MURDER,100
+Violent,Homicide,Murder,CRASH/MURDER,100
+Violent,Homicide,Murder,CAPITAL MURDER,101
+Violent,Homicide,Murder,EXPIRED-ATT MURDER,400
+Violent,Homicide,Murder,EXPIRED-ATT CAPITAL MURDER,401
+Violent,Homicide,Manslaughter,CRASH/MANSLAUGHTER,102
+Violent,Homicide,Manslaughter,MANSLAUGHTER,102
+Violent,Homicide,Manslaughter,CRIM NEG HOMICIDE/NON TRAFFIC,103
+Violent,Homicide,Manslaughter,CRASH/NEGLIGENT HOMICIDE,106
+Violent,Homicide,Manslaughter,CRASH/INTOX MANSLAUGHTER,108
+Violent,Rape,Rape,RAPE,200
+Violent,Rape,Rape,EXPIRED-ATT RAPE,201
+Violent,Rape,Rape,FORCED SODOMY,1716
+Violent,Rape,Rape,EXPIRED-ATT FORCED SODOMY,1717
+Violent,Rape,Rape,AGG FORCED SODOMY,1718
+Violent,Rape,Rape,AGG SODOMY,1719
+Violent,Rape,Rape,AGG RAPE OF A CHILD,206
+Violent,Rape,Rape,FORCED SODOMY OF CHILD,1720
+Violent,Rape,Rape,AGG FORCED SODOMY OF CHILD,1722
+Violent,Rape,Rape,EXPIRED-ATTAGGFORCESODOMYCHILD,1723
+Violent,Rape,Rape,AGG RAPE,202
+Violent,Robbery,Robbery,AGG ROBBERY/DEADLY WEAPON,300
+Violent,Robbery,Robbery,EXPIRED-ATT AGG ROBBERY/WEAP,301
+Violent,Robbery,Robbery,AGG ROBBERY BY ASSAULT,302
+Violent,Robbery,Robbery,ROBBERY BY ASSAULT,303
+Violent,Robbery,Robbery,EXPIRED-ATT ROBBERY BY ASSAULT,304
+Violent,Robbery,Robbery,ROBBERY BY THREAT,305
+Violent,Assault,Aggravated Assault,AGG ASSAULT,402
+Violent,Assault,Aggravated Assault,AGG ASSAULT FAM/DATE VIOLENCE,402
+Violent,Assault,Aggravated Assault,AGG ASSAULT ON PUBLIC SERVANT,403
+Violent,Assault,Aggravated Assault,AGG ASSAULT ON PEACE OFFICER,403
+Violent,Assault,Aggravated Assault,EXPIRED - DEADLY ASSAULT,404
+Violent,Assault,Aggravated Assault,SERIOUS INJURY TO A CHILD,405
+Violent,Assault,Aggravated Assault,AGG ASSAULT WITH MOTOR VEH,406
+Violent,Assault,Aggravated Assault,AGG ASLT W/MOTOR VEH FAM/DAT V,406
+Violent,Assault,Aggravated Assault,ARSON WITH BODILY INJURY,407
+Violent,Assault,Aggravated Assault,DEADLY CONDUCT,408
+Violent,Assault,Aggravated Assault,DEADLY CONDUCT FAM/DATE VIOL,408
+Violent,Assault,Aggravated Assault,TAKE WEAPON FRM POLICE OFFICER,409
+Violent,Assault,Aggravated Assault,EXPIRED-ATT/TAKE WEAP FROM OFF,409
+Violent,Assault,Aggravated Assault,AGG ASLT STRANGLE/SUFFOCATE,410
+Violent,Assault,Aggravated Assault,AGG ASLT ENHANC STRANGL/SUFFOC,411
+Violent,Assault,Aggravated Assault,ASSAULT WITH INJURY,900
+Violent,Assault,Aggravated Assault,ASSAULT W/INJURY-FAM/DATE VIOL,900
+Violent,Assault,Aggravated Assault,ASSAULT BY THREAT,901
+Violent,Assault,Aggravated Assault,ASSAULT BY THREAT FAM/DATING,901
+Violent,Assault,Aggravated Assault,ASSAULT BY CONTACT FAM/DATING,902
+Violent,Assault,Aggravated Assault,ASSAULT BY CONTACT,902
+Violent,Assault,Aggravated Assault,ASSAULT CONTACT-SEXUAL NATURE,902
+Violent,Assault,Aggravated Assault,ASSAULT ON PEACE OFFICER,903
+Violent,Assault,Aggravated Assault,ASSAULT ON PUBLIC SERVANT,903
+Violent,Assault,Aggravated Assault,RECKLESS CONDUCT,904
+Violent,Assault,Aggravated Assault,RESISTING ARREST OR SEARCH,905
+Violent,Assault,Aggravated Assault,ASSAULT - SCHOOL PERSONNEL,906
+Violent,Assault,Aggravated Assault,TAMPERING WITH CONSUMER PROD,907
+Violent,Assault,Aggravated Assault,FELONY ENHANCEMENT/ASSLT W/INJ,909
+Violent,Assault,Aggravated Assault,IMPROPER CONTACT-SEX ASLT VICT,910
+Violent,Assault,Aggravated Assault,ASSAULT OF A PREGNANT WOMAN,911
+Violent,Assault,Aggravated Assault,ASSAULT OF PREGNANT WM-FAM/DAT,911
+Violent,Assault,Simple Assault,AGG KIDNAPPING FAM VIO,2801
+Violent,Assault,Simple Assault,AGG KIDNAPPING,2801
+Violent,Assault,Simple Assault,EXPIRED-ATT AGG KIDNAPPING,2803
+Violent,Assault,Simple Assault,HARASSMENT,2703
+Property,Burglary,Residential Burglary,BURGLARY OF RESIDENCE,500
+Property,Burglary,Residential Burglary,BURG OF RES - FAM/DATING ASLT,500
+Property,Burglary,Residential Burglary,BURG OF RES - SEXUAL NATURE,500
+Property,Burglary,Residential Burglary,ATT BURGLARY OF RESIDENCE,501
+Property,Burglary,Non-Residential Burglary,BURGLARY NON RESIDENCE,502
+Property,Burglary,Non-Residential Burglary,ATT BURGLARY NON RESIDENCE,503
+Property,Burglary,Non-Residential Burglary,BURG NON RESIDENCE SHEDS,504
+Property,Theft,Grand Larceny Auto,BURGLARY OF VEHICLE,601
+Property,Theft,Grand Larceny Auto,BURGLARY OF VEH-NO SUSPECT/FU,601
+Property,Theft,Grand Larceny Auto,AUTO THEFT,700
+Property,Theft,Grand Larceny Auto,ATT AUTO THEFT,701
+Property,Theft,Theft from Auto,THEFT FROM AUTO,603
+Property,Theft,Theft from Auto,THEFT OF AUTO PARTS,604
+Property,Theft,Unclassified,THEFT,600
+Property,Theft,Unclassified,BURGLARY OF COIN-OP MACHINE,602
+Property,Theft,Unclassified,POCKET PICKING,605
+Property,Theft,Unclassified,PURSE SNATCHING,606
+Property,Theft,Unclassified,THEFT BY SHOPLIFTING,607
+Property,Theft,Unclassified,THEFT OF SERVICE,608
+Property,Theft,Unclassified,THEFT OF BICYCLE,609
+Property,Theft,Unclassified,THEFT FROM PERSON,610
+Property,Theft,Unclassified,ATT THEFT,611
+Property,Theft,Unclassified,THEFT OF HEAVY EQUIPMENT,612
+Property,Theft,Unclassified,THEFT OF TRAILER,613
+Property,Theft,Unclassified,THEFT OF LICENSE PLATE,614
+Property,Theft,Unclassified,THEFT OF TELECOMMUNICATION SRV,615
+Property,Theft,Unclassified,TELECOMMUNICATION CRIMES/OTHER,616
+Property,Theft,Unclassified,THEFT FROM BUILDING,617
+Property,Theft,Unclassified,THEFT/TILL TAPPING,618
+Property,Theft,Unclassified,THEFT OF METAL,619
+Property,Theft,Unclassified,THEFT CATALYTIC CONVERTER,620
+Property,Theft,Unclassified,RENTAL CAR/FAIL TO RETURN,621
+Drug,Drug,Drug,POSS CONTROLLED SUB/SYN NARC,1801
+Drug,Drug,Drug,POSS CONTROLLED SUB/OTHER,1802
+Drug,Drug,Drug,POSSESSION OF MARIJUANA,1803
+Drug,Drug,Drug,DEL CONTROLLED SUB/NARCOTIC,1804
+Drug,Drug,Drug,DEL CONTROLLED SUB/SYN NARC,1805
+Drug,Drug,Drug,DEL CONTROLLED SUB/OTHER,1806
+Drug,Drug,Drug,DEL MARIJUANA,1807
+Drug,Drug,Drug,OBTAIN CONTROLLED SUB BY FRAUD,1808
+Drug,Drug,Drug,EXPIRED-ATT OBT CONT SUB FRAUD,1809
+Drug,Drug,Drug,POSS DANG DRUG,1810
+Drug,Drug,Drug,DEL OF DANG DRUG,1811
+Drug,Drug,Drug,OBTAIN DANG DRUG BY FRAUD,1812
+Drug,Drug,Drug,EXPIRED-ATT OB DANG DRUG FRAUD,1813
+Drug,Drug,Drug,CONTROLLED SUB VIOL - OTHER,1814
+Drug,Drug,Drug,DANG DRUG VIOL - OTHER,1815
+Drug,Drug,Drug,POSS OF DRUG PARAPHERNALIA,1818
+Drug,Drug,Drug,MANF CONTROLLED SUB- SYN NARC,1819
+Drug,Drug,Drug,MANF CONTROLLED SUB - OTHER,1820
+Drug,Drug,Drug,INHALANT ABUSE,1821
+Drug,Drug,Drug,POSS OF PRESCRIPTION FORM,1822
+Drug,Drug,Drug,DELIVERY OF PRESCRIPTION FORM,1823
+Drug,Drug,Drug,NUISANCE ABATEMENT,1824
+Drug,Drug,Drug,POSS SYNTHETIC MARIJUANA,1825
+Drug,Drug,Drug,DEL SYNTHETIC MARIJUANA,1826
+Drug,Drug,Drug,MANF SYNTHETIC MARIJUANA,1827
+Drug,Drug,Drug,POSS CONTROLLED SUB/NARCOTIC,1800
+Property,Arson,Arson,ARSON,800
+Property,Arson,Arson,ATT ARSON,801
+Property,Arson,Arson,CRIMINAL MISCHIEF BY ARSON,802
+Property,Other Property Crime,Other Property Crime,CRIMINAL TRESPASS,2716
+Property,Other Property Crime,Other Property Crime,CRIMINAL TRESPASS/TRANSIENT,2721
+Property,Other Property Crime,Other Property Crime,CRIMINAL TRESPASS/HOTEL,2722
+Property,Other Property Crime,Other Property Crime,CRIMINAL TRESPASS/IN VEHICLE,2727
+Property,Other Property Crime,Other Property Crime,ILLEGAL LABELLING OF RECORDING,1011
+Property,Other Property Crime,Other Property Crime,THEFT BY PUBLIC SERVANT,1202
+Property,Other Property Crime,Other Property Crime,THEFT- APPROPRIATE STOLEN PROP,1300
+Property,Other Property Crime,Other Property Crime,CRIMINAL MISCHIEF,1400
+Property,Other Property Crime,Other Property Crime,RECKLESS DAMAGE,1401
+Property,Other Property Crime,Other Property Crime,GRAFFITI,1402
+Property,White Collar,Counterfeiting,COUNTERFEITING,1006
+Property,White Collar,Counterfeiting,TRADEMARK COUNTERFEITING,1111
+Property,White Collar,Fraud,FORGERY- CERTIFICATE OF TITLE,1008
+Property,White Collar,Fraud,FORGERY AND PASSING,1000
+Property,White Collar,Fraud,FORGERY BY ALTERATION,1001
+Property,White Collar,Fraud,POSSESSION OF FORGED WRITING,1002
+Property,White Collar,Fraud,FORGERY BY MAKING,1003
+Property,White Collar,Fraud,FORGERY OF IDENTIFICATION,1004
+Property,White Collar,Fraud,CRED CARD ABUSE BY FORGERY,1005
+Property,White Collar,Fraud,FRAUD DESTRUCTION OF A WRITING,1007
+Property,White Collar,Fraud,SECURING EXEC-DOC BY DECEPTION,1009
+Property,White Collar,Fraud,FRAUD FILING FINANCE STATEMENT,1010
+Property,White Collar,Fraud,FORGERY - OTHER,1099
+Property,White Collar,Fraud,FRAUD - OTHER,1199
+Property,White Collar,Fraud,FRAUD-CARD SKIMMER,1112
+Property,White Collar,Fraud,ISSUANCE OF BAD CHECK,1100
+Property,White Collar,Fraud,THEFT BY CHECK,1101
+Property,White Collar,Fraud,CRED CARD ABUSE - EXPIR-CANCEL,1103
+Property,White Collar,Fraud,BANK KITING,1104
+Property,White Collar,Fraud,FALSE STATEMENT -OBTAIN CREDIT,1105
+Property,White Collar,Fraud,CRED CARD ABUSE - OTHER,1106
+Property,White Collar,Fraud,DEBIT CARD ABUSE,1108
+Property,White Collar,Fraud,BREACH OF COMPUTER SECURITY,1109
+Property,White Collar,Fraud,PIGEON DROP,1198
+Property,White Collar,Fraud,MISAPPLY FIDUCIARY PROP,1201
+Property,White Collar,Fraud,MONEY LAUNDERING,1301
+Property,White Collar,Embezzlement,THEFT BY EMBEZZLEMENT,1200
+Gambling,Gambling,Gambling,GAMBLING,1900
+Gambling,Gambling,Gambling,GAMBLING PROMOTION,1901
+Gambling,Gambling,Gambling,KEEPING GAMBLING PLACE,1902
+Gambling,Gambling,Gambling,COMMUNICATING GAMBLING INFO,1903
+Gambling,Gambling,Gambling,POSS OF GAMBLING EQUIPMENT,1904
+Gambling,Gambling,Gambling,POSS OF GAMBLING PARAPHERNALIA,1905
+Gambling,Gambling,Gambling,THEFT BY FALSE PRETEXT/BUNCO,1102

@@ -1,0 +1,36 @@
+﻿category_1,category_2,category_3,NIBRSDescription
+Violent,Homicide,Murder,"Murder, non-negligent"
+Violent,Homicide,Manslaughter,Negligent manslaughter
+Violent,Rape,Rape,Forcible rape
+Violent,Rape,Rape,Forcible sodomy
+Violent,Robbery,Robbery,Robbery
+Violent,Assault,Aggravated Assault,Aggravated Assault
+Violent,Assault,Simple Assault,Simple assault
+Property,Burglary,Unclassified,"Burglary, Breaking and Entering"
+Property,Theft,Grand Larceny Auto,Motor vehicle theft
+Property,Theft,Theft from Auto,Theft from motor vehicle
+Property,Theft,Theft from Auto,Theft of motor vehicle parts or accessory
+Property,Theft,Unclassified,Theft from building
+Property,Theft,Unclassified,All other larceny
+Property,Theft,Unclassified,Purse-snatching
+Property,Theft,Unclassified,Shoplifting
+Property,Theft,Unclassified,Pocket-picking
+Property,Theft,Unclassified,From coin-operated machine or device
+Property,Arson,Arson,Arson
+Property,Other Property Crime,Other Property Crime,"Destruction, damage, vandalism"
+Property,Other Property Crime,Other Property Crime,Trespass of real property
+Property,Other Property Crime,Other Property Crime,Stolen property offenses
+Drug,Drug,Drug,"Drug, narcotic violations"
+Drug,Drug,Drug,Drug equipment violations
+Property,White Collar,Counterfeiting,"Counterfeiting, forgery"
+Property,White Collar,Fraud,Identify theft
+Property,White Collar,Fraud,Wire fraud
+Property,White Collar,Fraud,"Credit card, ATM fraud"
+Property,White Collar,Fraud,Welfare fraud
+Property,White Collar,Fraud,Impersonation
+Property,White Collar,Fraud,"False pretenses, swindle"
+Property,White Collar,Fraud,Hacking/Computer Invasion
+Property,White Collar,Embezzlement,Embezzlement
+Gambling,Gambling,Gambling,Promoting gambling
+Gambling,Gambling,Gambling,Gambling equipment violations
+Gambling,Gambling,Gambling,Betting/wagering

@@ -1,0 +1,200 @@
+﻿category_1,category_2,category_3,iucr
+Violent,Homicide,Murder,0110
+Violent,Homicide,Manslaughter,0141
+Violent,Homicide,Manslaughter,0142
+Violent,Rape,Rape,0261
+Violent,Rape,Rape,0261
+Violent,Rape,Rape,0262
+Violent,Rape,Rape,0263
+Violent,Rape,Rape,0263
+Violent,Rape,Rape,0264
+Violent,Rape,Rape,0265
+Violent,Robbery,Robbery,0312
+Violent,Robbery,Robbery,0313
+Violent,Robbery,Robbery,0320
+Violent,Robbery,Robbery,0320
+Violent,Robbery,Robbery,0325
+Violent,Robbery,Robbery,0326
+Violent,Robbery,Robbery,0330
+Violent,Robbery,Robbery,0331
+Violent,Robbery,Robbery,0334
+Violent,Robbery,Robbery,0337
+Violent,Robbery,Robbery,0340
+Violent,Robbery,Robbery,031A
+Violent,Robbery,Robbery,031B
+Violent,Robbery,Robbery,033A
+Violent,Robbery,Robbery,033B
+Violent,Assault,Aggravated Assault,0420
+Violent,Assault,Aggravated Assault,0430
+Violent,Assault,Aggravated Assault,0440
+Violent,Assault,Aggravated Assault,0450
+Violent,Assault,Aggravated Assault,0451
+Violent,Assault,Aggravated Assault,0452
+Violent,Assault,Aggravated Assault,0453
+Violent,Assault,Aggravated Assault,0454
+Violent,Assault,Aggravated Assault,0460
+Violent,Assault,Aggravated Assault,0461
+Violent,Assault,Aggravated Assault,0462
+Violent,Assault,Aggravated Assault,041A
+Violent,Assault,Aggravated Assault,041B
+Violent,Assault,Aggravated Assault,051A
+Violent,Assault,Aggravated Assault,051B
+Violent,Assault,Aggravated Assault,0475
+Violent,Assault,Aggravated Assault,0479
+Violent,Assault,Aggravated Assault,0480
+Violent,Assault,Aggravated Assault,0482
+Violent,Assault,Aggravated Assault,0483
+Violent,Assault,Aggravated Assault,0484
+Violent,Assault,Aggravated Assault,0485
+Violent,Assault,Aggravated Assault,0486
+Violent,Assault,Aggravated Assault,0487
+Violent,Assault,Aggravated Assault,0488
+Violent,Assault,Aggravated Assault,0489
+Violent,Assault,Aggravated Assault,0495
+Violent,Assault,Aggravated Assault,0496
+Violent,Assault,Aggravated Assault,0497
+Violent,Assault,Aggravated Assault,0498
+Violent,Assault,Aggravated Assault,0498
+Violent,Assault,Aggravated Assault,0520
+Violent,Assault,Aggravated Assault,0530
+Violent,Assault,Aggravated Assault,0545
+Violent,Assault,Aggravated Assault,0550
+Violent,Assault,Aggravated Assault,0551
+Violent,Assault,Aggravated Assault,0552
+Violent,Assault,Aggravated Assault,0553
+Violent,Assault,Aggravated Assault,0554
+Violent,Assault,Aggravated Assault,0555
+Violent,Assault,Aggravated Assault,0556
+Violent,Assault,Aggravated Assault,0557
+Violent,Assault,Aggravated Assault,0558
+Violent,Assault,Simple Assault,0560
+Property,Burglary,Unclassified,0610
+Property,Burglary,Unclassified,0620
+Property,Burglary,Unclassified,0630
+Property,Burglary,Residential Burglary,0650
+Property,Theft,Grand Larceny,0810
+Property,Theft,Other Theft,0820
+Property,Theft,Other Theft,0850
+Property,Theft,Other Theft,0860
+Property,Theft,Other Theft,0865
+Property,Theft,Other Theft,0870
+Property,Theft,Other Theft,0880
+Property,Theft,Other Theft,0890
+Property,Theft,Other Theft,0895
+Property,Theft,Other Theft,0895
+Property,Theft,Grand Larceny Auto,0910
+Property,Theft,Grand Larceny Auto,0915
+Property,Theft,Grand Larceny Auto,0917
+Property,Theft,Grand Larceny Auto,0918
+Property,Theft,Grand Larceny Auto,0920
+Property,Theft,Grand Larceny Auto,0925
+Property,Theft,Grand Larceny Auto,0927
+Property,Theft,Grand Larceny Auto,0928
+Property,Theft,Grand Larceny Auto,0930
+Property,Theft,Grand Larceny Auto,0935
+Property,Theft,Grand Larceny Auto,0937
+Property,Theft,Grand Larceny Auto,0938
+Property,Arson,Arson,1010
+Property,Arson,Arson,1020
+Property,Arson,Arson,1025
+Property,Arson,Arson,1030
+Property,Arson,Arson,1090
+Property,Other Property Crime,Other Property Crime,1265
+Property,Other Property Crime,Other Property Crime,1305
+Property,Other Property Crime,Other Property Crime,1310
+Property,Other Property Crime,Other Property Crime,1320
+Property,Other Property Crime,Other Property Crime,1340
+Property,Other Property Crime,Other Property Crime,1345
+Property,Other Property Crime,Other Property Crime,1350
+Property,Other Property Crime,Other Property Crime,1360
+Property,Other Property Crime,Other Property Crime,1365
+Property,Other Property Crime,Other Property Crime,1370
+Property,Other Property Crime,Other Property Crime,1375
+Property,Other Property Crime,Other Property Crime,1330
+Property,Other Property Crime,Other Property Crime,1335
+Drug,Drug,Drug,1811
+Drug,Drug,Drug,1812
+Drug,Drug,Drug,1821
+Drug,Drug,Drug,1822
+Drug,Drug,Drug,1840
+Drug,Drug,Drug,1850
+Drug,Drug,Drug,1900
+Drug,Drug,Drug,2010
+Drug,Drug,Drug,2010
+Drug,Drug,Drug,2011
+Drug,Drug,Drug,2012
+Drug,Drug,Drug,2013
+Drug,Drug,Drug,2014
+Drug,Drug,Drug,2015
+Drug,Drug,Drug,2016
+Drug,Drug,Drug,2017
+Drug,Drug,Drug,2018
+Drug,Drug,Drug,2019
+Drug,Drug,Drug,2020
+Drug,Drug,Drug,2021
+Drug,Drug,Drug,2022
+Drug,Drug,Drug,2023
+Drug,Drug,Drug,2024
+Drug,Drug,Drug,2025
+Drug,Drug,Drug,2026
+Drug,Drug,Drug,2027
+Drug,Drug,Drug,2028
+Drug,Drug,Drug,2029
+Drug,Drug,Drug,2030
+Drug,Drug,Drug,2031
+Drug,Drug,Drug,2032
+Drug,Drug,Drug,2033
+Drug,Drug,Drug,2034
+Drug,Drug,Drug,2040
+Drug,Drug,Drug,2050
+Drug,Drug,Drug,2070
+Drug,Drug,Drug,2080
+Drug,Drug,Drug,2090
+Drug,Drug,Drug,2091
+Drug,Drug,Drug,2092
+Drug,Drug,Drug,2093
+Drug,Drug,Drug,2094
+Drug,Drug,Drug,2095
+Drug,Drug,Drug,2110
+Drug,Drug,Drug,2160
+Drug,Drug,Drug,2170
+Property,White Collar,Fraud,1110
+Property,White Collar,Fraud,1120
+Property,White Collar,Fraud,1130
+Property,White Collar,Fraud,1135
+Property,White Collar,Fraud,1150
+Property,White Collar,Fraud,1170
+Property,White Collar,Fraud,1242
+Property,White Collar,Fraud,1151
+Property,White Collar,Fraud,1152
+Property,White Collar,Fraud,1153
+Property,White Collar,Fraud,1154
+Property,White Collar,Fraud,1155
+Property,White Collar,Fraud,1156
+Property,White Collar,Fraud,1160
+Property,White Collar,Fraud,1185
+Property,White Collar,Fraud,1195
+Property,White Collar,Fraud,1195
+Property,White Collar,Fraud,1200
+Property,White Collar,Fraud,1200
+Property,White Collar,Fraud,1205
+Property,White Collar,Fraud,1205
+Property,White Collar,Fraud,1206
+Property,White Collar,Fraud,1206
+Property,White Collar,Fraud,1210
+Property,White Collar,Fraud,1210
+Property,White Collar,Fraud,1220
+Property,White Collar,Fraud,1220
+Property,White Collar,Fraud,1235
+Property,White Collar,Fraud,1240
+Property,White Collar,Fraud,1241
+Property,White Collar,Fraud,1245
+Property,White Collar,Fraud,1255
+Property,White Collar,Fraud,1261
+Property,White Collar,Counterfeiting,1121
+Property,White Collar,Counterfeiting,1122
+Property,White Collar,Embezzlement,1140
+Gambling,Gambling,Gambling,1651
+Gambling,Gambling,Gambling,1661
+Gambling,Gambling,Gambling,1670
+Gambling,Gambling,Gambling,1680

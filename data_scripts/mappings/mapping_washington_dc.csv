@@ -1,0 +1,10 @@
+﻿category_1,category_2,category_3,OFFENSE
+Violent,Homicide,Unclassified,HOMICIDE
+Violent,Rape,Rape,SEX ABUSE
+Violent,Robbery,Robbery,ROBBERY
+Violent,Assault,Aggravated Assault,ASSAULT W/DANGEROUS WEAPON
+Property,Burglary,Unclassified,BURGLARY
+Property,Theft,Grand Larceny Auto,MOTOR VEHICLE THEFT
+Property,Theft,Theft from Auto,THEFT F/AUTO
+Property,Theft,Unclassified,THEFT/OTHER
+Property,Arson,Arson,ARSON

@@ -1,0 +1,88 @@
+﻿category_1,category_2,category_3,crm_cd
+Violent,Homicide,Murder,110
+Violent,Homicide,Manslaughter,113
+Violent,Rape,Rape,121
+Violent,Rape,Rape,122
+Violent,Rape,Rape,815
+Violent,Rape,Rape,820
+Violent,Rape,Rape,821
+Violent,Robbery,Robbery,210
+Violent,Robbery,Robbery,220
+Violent,Assault,Aggravated Assault,230
+Violent,Assault,Aggravated Assault,231
+Violent,Assault,Aggravated Assault,235
+Violent,Assault,Aggravated Assault,236
+Violent,Assault,Aggravated Assault,250
+Violent,Assault,Aggravated Assault,251
+Violent,Assault,Aggravated Assault,761
+Violent,Assault,Aggravated Assault,926
+Violent,Assault,Simple Assault,435
+Violent,Assault,Simple Assault,436
+Violent,Assault,Simple Assault,437
+Violent,Assault,Simple Assault,622
+Violent,Assault,Simple Assault,623
+Violent,Assault,Simple Assault,624
+Violent,Assault,Simple Assault,625
+Violent,Assault,Simple Assault,626
+Violent,Assault,Simple Assault,627
+Violent,Assault,Simple Assault,647
+Violent,Assault,Simple Assault,763
+Violent,Assault,Simple Assault,928
+Violent,Assault,Simple Assault,930
+Property,Burglary,Residential Burglary,310
+Property,Burglary,Non-Residential Burglary,320
+Property,Theft,Grand Larceny Auto,510
+Property,Theft,Grand Larceny Auto,520
+Property,Theft,Grand Larceny Auto,433
+Property,Theft,Theft from Auto,330
+Property,Theft,Theft from Auto,331
+Property,Theft,Theft from Auto,410
+Property,Theft,Theft from Auto,420
+Property,Theft,Theft from Auto,421
+Property,Theft,Grand Larceny,341
+Property,Theft,Grand Larceny,343
+Property,Theft,Grand Larceny,470
+Property,Theft,Grand Larceny,473
+Property,Theft,Grand Larceny,349
+Property,Theft,Other Theft,446
+Property,Theft,Other Theft,350
+Property,Theft,Other Theft,351
+Property,Theft,Other Theft,352
+Property,Theft,Other Theft,353
+Property,Theft,Other Theft,450
+Property,Theft,Other Theft,451
+Property,Theft,Other Theft,452
+Property,Theft,Other Theft,453
+Property,Theft,Other Theft,345
+Property,Theft,Other Theft,440
+Property,Theft,Other Theft,441
+Property,Theft,Other Theft,442
+Property,Theft,Other Theft,443
+Property,Theft,Other Theft,444
+Property,Theft,Other Theft,445
+Property,Theft,Other Theft,471
+Property,Theft,Other Theft,472
+Property,Theft,Other Theft,474
+Property,Theft,Other Theft,475
+Property,Theft,Other Theft,480
+Property,Theft,Other Theft,485
+Property,Theft,Other Theft,487
+Property,Theft,Other Theft,491
+Property,Arson,Arson,648
+Property,Other Property Crime,Other Property Crime,888
+Property,Other Property Crime,Other Property Crime,740
+Property,Other Property Crime,Other Property Crime,745
+Drug,Drug,Drug,865
+Property,White Collar,Counterfeiting,660
+Property,White Collar,Fraud,662
+Property,White Collar,Fraud,664
+Property,White Collar,Fraud,666
+Property,White Collar,Fraud,347
+Property,White Collar,Fraud,649
+Property,White Collar,Fraud,651
+Property,White Collar,Fraud,652
+Property,White Collar,Fraud,653
+Property,White Collar,Fraud,654
+Property,White Collar,Fraud,354
+Property,White Collar,Embezzlement,668
+Property,White Collar,Embezzlement,670

@@ -1,0 +1,16 @@
+﻿category_1,category_2,category_3,offense_category
+Violent,Homicide,Unclassified,HOMICIDE
+Violent,Rape,Rape,SEXUAL ASSAULT
+Violent,Robbery,Robbery,ROBBERY
+Violent,Assault,Aggravated Assault,AGGRAVATED ASSAULT
+Violent,Assault,Simple Assault,ASSAULT
+Property,Burglary,Unclassified,BURGLARY
+Property,Theft,Grand Larceny Auto,STOLEN VEHICLE
+Property,Theft,Unclassified,LARCENY
+Property,Arson,Arson,ARSON
+Property,Other Property Crime,Other Property Crime,DAMAGE TO PROPERTY
+Property,Other Property Crime,Other Property Crime,STOLEN PROPERTY
+Drug,Drug,Drug,DANGEROUS DRUGS
+Property,White Collar,Counterfeiting,FORGERY
+Property,White Collar,Fraud,FRAUD
+Gambling,Gambling,Gambling,GAMBLING

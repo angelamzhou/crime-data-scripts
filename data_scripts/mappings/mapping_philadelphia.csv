@@ -1,0 +1,23 @@
+﻿category_1,category_2,category_3,ucr_general,text_general_code
+Violent,Homicide,Murder,100,Homicide - Criminal
+Violent,Homicide,Manslaughter,100,Homicide - Gross Negligence
+Violent,Rape,Rape,200,Rape
+Violent,Robbery,Robbery,300,Robbery Firearm
+Violent,Robbery,Robbery,300,Robbery No Firearm
+Violent,Assault,Aggravated Assault,400,Aggravated Assault Firearm
+Violent,Assault,Aggravated Assault,400,Aggravated Assault No Firearm
+Violent,Assault,Simple Assault,800,Other Assaults
+Property,Burglary,Residential Burglary,500,Burglary Residential
+Property,Burglary,Non-Residential Burglary,500,Burglary Non-Residential
+Property,Theft,Grand Larceny Auto,700,Motor Vehicle Theft
+Property,Theft,Theft from Auto,600,Theft from Vehicle
+Property,Theft,Unclassified,600,Thefts
+Drug,Drug,Drug,1800,Narcotic / Drug Law Violations
+Property,White Collar,Counterfeiting,1000,Forgery and Counterfeiting
+Property,White Collar,Fraud,1100,Fraud
+Property,White Collar,Embezzlement,1200,Embezzlement
+Gambling,Gambling,Gambling,1900,Gambling Violations
+Property,Arson,Arson,900,Arson
+Property,Other Property Crime,Other Property Crime,1400,Vandalism/Criminal Mischief
+Property,Other Property Crime,Other Property Crime,2500,Vagrancy/Loitering
+Property,Other Property Crime,Other Property Crime,1300,Receiving Stolen Property

@@ -1,0 +1,11 @@
+﻿category_1,category_2,category_3,ColName
+Violent,Homicide,Murder,Homicide
+Violent,Rape,Rape,SexOffense
+Violent,Robbery,Robbery,Robbery
+Violent,Assault,Unclassified,AssaultOffense
+Property,Burglary,Unclassified,Burglary
+Property,Theft,Grand Larceny Auto,VehicleTheft
+Property,Theft,Theft from Auto,LockedVehicle
+Property,Theft,Unclassified,Theft
+Property,Arson,Arson,Arson
+Property,Other Property Crime,Other Property Crime,CriminalDamage

@@ -1,0 +1,250 @@
+﻿category_1,category_2,category_3,offense_description
+Violent,Homicide,Murder,HOMICIDE
+Violent,Homicide,Murder,HOMICIDE- CRIMINAL
+Violent,Homicide,Murder,HOMICIDE- CRIMINALLY NEGLIGENT
+Violent,Robbery,Robbery,ROBBERY
+Violent,Robbery,Robbery,Robbery - Acting in Concert
+Violent,Robbery,Robbery,ROBBERY- AGG.- SERIOUS BODILY INJURY
+Violent,Robbery,Robbery,ROBBERY- ESP. AGG.
+Violent,Robbery,Robbery,"ROBBERY, AGGRAVATED, HANDGUN"
+Violent,Robbery,Robbery,"ROBBERY, AGGRAVATED, KNIFE"
+Violent,Robbery,Robbery,"ROBBERY, AGGRAVATED, LONG GUN"
+Violent,Robbery,Robbery,"ROBBERY, AGGRAVATED, OTHER"
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - FAMILY-GUN
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - FAMILY-STGARM
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - FAMILY-WEAPON
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - GUN
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - NONFAMILY-GUN
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - NONFAMILY-STGARM
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - NONFAMILY-WEAPON
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - POL OFF-GUN
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - POL OFF-STGARM
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - POL OFF-WEAPON
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - PUB OFF-GUN
+Violent,Assault,Aggravated Assault,AGGRAV ASSLT - PUB OFF-WEAPON
+Violent,Assault,Aggravated Assault,ASSAULT OFFICER - AGG - DEADLY WEAPON - INT/KN
+Violent,Assault,Aggravated Assault,"Assault, 1st Responder Agg - Serious Injury - Int/Kn"
+Violent,Assault,Aggravated Assault,"Assault, Agg - Deadly Weapon- Int/Kn- Acting in Concert"
+Violent,Assault,Aggravated Assault,"Assault, Agg - Serious Bodily Injury- Int/Kn- Acting in Concert"
+Violent,Assault,Aggravated Assault,"Assault, Agg - Strangulation- Int/Kn- Acting in Concert"
+Violent,Assault,Aggravated Assault,"ASSAULT, AGG DEADLY WEAPON- INT/KN"
+Violent,Assault,Aggravated Assault,"Assault, Aggravated - Deadly Weapon - Int/Kn"
+Violent,Assault,Aggravated Assault,"Assault, Aggravated - Deadly Weapon - Int/Kn - In Concert"
+Violent,Assault,Aggravated Assault,"Assault, Aggravated - Deadly Weapon - Reckless"
+Violent,Assault,Aggravated Assault,"Assault, Aggravated - Death - Int/Kn"
+Violent,Assault,Aggravated Assault,"Assault, Aggravated - Death - Reckless"
+Violent,Assault,Aggravated Assault,"Assault, Aggravated - Serious Bodily Injury - Reckless"
+Violent,Assault,Aggravated Assault,"Assault, Aggravated - Strangulation - Int/Kn"
+Violent,Assault,Aggravated Assault,"Assault, Aggravated - Strangulation - Int/Kn - In Concert"
+Violent,Assault,Aggravated Assault,"ASSAULT, AGGRAVATED - STRANGULATION-INT/KN"
+Violent,Assault,Aggravated Assault,"Assault, Officer Agg - Serious Injury- Int/Kn- Acting in Concert"
+Violent,Assault,Aggravated Assault,"Assault, Officer Agg - Weapon- Int/Kn- Acting in Concert"
+Violent,Assault,Aggravated Assault,"Assault, Officer/Responder - Agg - Serious Injury - Reckless"
+Violent,Assault,Aggravated Assault,"Assault, Officer/Responder -Agg -Deadly Weapon - Int/Kn"
+Violent,Assault,Aggravated Assault,"Assault, Officer/Responder -Agg -Deadly Weapon - Reckless"
+Violent,Assault,Aggravated Assault,"ASSAULT, VEHICULAR, AGGRAVATED"
+Violent,Assault,Aggravated Assault,INTENTIONAL AGGRAVATED ASSAULT
+Violent,Assault,Simple Assault,"ASSAULT, DOMESTIC, BODILY INJURY 2ND OFFENSE"
+Violent,Assault,Simple Assault,"ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE"
+Violent,Assault,Simple Assault,"ASSAULT, DOMESTIC, BODILY INJURY 3RD OR MORE - ENHANCED"
+Violent,Assault,Simple Assault,SIMPLE ASSLT
+Violent,Assault,Simple Assault,SIMPLE ASSLT - STRANGULATION (NO LOSS OF CONSCIOUSNESS)
+Violent,Assault,Unclassified,ASSAULT
+Violent,Assault,Unclassified,ASSAULT- FEAR OF BODILY INJURY
+Violent,Assault,Unclassified,ASSAULT OF OFFICER - BODILY INJURY
+Violent,Assault,Unclassified,ASSAULT- OFFENSIVE OR PROVOCATIVE CONTACT
+Violent,Assault,Unclassified,"ASSAULT, (NO INJURY, ON OFFICER/PUBLIC OFFICIAL)"
+Violent,Assault,Unclassified,"Assault, health care provider - Bodily Injury"
+Violent,Assault,Unclassified,"Assault, health care provider - Fear of Bodily Injury"
+Violent,Assault,Unclassified,"Assault, health care provider - Offensive Contact"
+Violent,Assault,Unclassified,"ASSAULT, VEHICULAR"
+Violent,Assault,Unclassified,"ASSAULT, VEHICULAR - 1ST OFFENSE"
+Property,Burglary,Unclassified,BURGL - BANKING-TYPE INST
+Property,Burglary,Unclassified,BURGL - FORCED ENTRY-NONRESID
+Property,Burglary,Unclassified,BURGL - NO FORCED ENTRY-NONRESID
+Property,Burglary,Unclassified,BURGL - SAFE-VAULT
+Property,Burglary,Unclassified,BURGLARY
+Property,Burglary,Unclassified,Burglary - Aggravated - Acting in Concert
+Property,Burglary,Unclassified,BURGLARY (NON HABITATION)
+Property,Burglary,Unclassified,BURGLARY- AGGRAVATED
+Property,Burglary,Unclassified,BURGLARY- MOTOR VEHICLE
+Property,Burglary,Unclassified,"BURGLARY, CRIMINAL ATTEMPT"
+Property,Theft,Grand Larceny Auto,"Theft of Vehicle- $250,000 or more"
+Property,Theft,Grand Larceny Auto,"Theft of Vehicle- $60,000 or > but < $250,000"
+Property,Theft,Grand Larceny Auto,"THEFT OF VEHICLE->$1,000 BUT <$2,500"
+Property,Theft,Grand Larceny Auto,"THEFT OF VEHICLE-2,500 OR > BUT<$10,000"
+Property,Theft,Grand Larceny Auto,VEHICLE THEFT
+Property,Theft,Theft from Auto,LARC - FROM AUTO
+Property,Theft,Unclassified,LARC - BICYCLE
+Property,Theft,Unclassified,LARC - FROM BANKING TYPE-INST
+Property,Theft,Unclassified,LARC - FROM BLDG
+Property,Theft,Unclassified,LARC - FROM COIN MACHINE
+Property,Theft,Unclassified,LARC - FROM YARDS
+Property,Theft,Unclassified,LARC - PARTS FROM VEH
+Property,Theft,Unclassified,LARC - POSTAL
+Property,Theft,Unclassified,LARC - RESID
+Property,Theft,Unclassified,LARCENY - (FREE TEXT)
+Property,Theft,Unclassified,SHOPLIFTING
+Property,Theft,Unclassified,"Telecommunications Theft- $250,000 or more"
+Property,Theft,Unclassified,THEFT OF MERCHANDISE - $500 OR LESS
+Property,Theft,Unclassified,"THEFT OF MERCHANDISE- $1,000 OR LESS"
+Property,Theft,Unclassified,"THEFT OF MERCHANDISE 5TH - $1,000 OR LESS"
+Property,Theft,Unclassified,"THEFT OF MERCHANDISE 5TH - $10,000 OR > BUT < $60,000"
+Property,Theft,Unclassified,"THEFT OF MERCHANDISE 5TH - $2,500 OR > BUT < $10,000"
+Property,Theft,Unclassified,"THEFT OF MERCHANDISE 5TH - $60,000 OR > BUT < $250,000"
+Property,Theft,Unclassified,"THEFT OF MERCHANDISE 5TH - > $1,000 BUT < $2,500"
+Property,Theft,Unclassified,"THEFT OF PROPERTY- $1,000 OR > BUT < $10,000"
+Property,Theft,Unclassified,"THEFT OF PROPERTY- $10,000 OR > BUT < $60,000"
+Property,Theft,Unclassified,"Theft of Property- $250,000 or more"
+Property,Theft,Unclassified,THEFT OF PROPERTY- $500 OR LESS
+Property,Theft,Unclassified,"Theft of Property- $60,000 or > but < $250,000"
+Property,Theft,Unclassified,"THEFT OF PROPERTY- $60,000 OR MORE"
+Property,Theft,Unclassified,"THEFT OF PROPERTY- > $500 BUT < $1,000"
+Property,Theft,Unclassified,"THEFT OF PROPERTY-$1,000 OR LESS"
+Property,Theft,Unclassified,"THEFT OF PROPERTY-$2,500 OR > BUT < $10,000"
+Property,Theft,Unclassified,THEFT OF SERVICES- $500 OR LESS
+Property,Theft,Unclassified,"THEFT OF SERVICES- $1,000 OR > BUT < $10,000"
+Property,Theft,Unclassified,"THEFT OF SERVICES- $10,000 OR > BUT < $60,000"
+Property,Theft,Unclassified,THEFT OF SERVICES (LESS THAN $50 OR NO VAL DETERMINED)
+Property,Theft,Unclassified,"THEFT OF SERVICES- > $500 BUT < $1,000"
+Property,Theft,Unclassified,"THEFT OF SERVICES-$1,000 OR LESS"
+Property,Theft,Unclassified,"THEFT OF SERVICES, CRIMINAL ATTEMPT"
+Property,Arson,Arson,ARSON
+Property,Arson,Arson,ARSON - BUSINESS
+Property,Arson,Arson,ARSON - PUB-BLDG
+Property,Arson,Arson,ARSON - RESID
+Property,Other Property Crime,Other Property Crime,STOLEN PROPERTY
+Property,Other Property Crime,Other Property Crime,TRESPASS BY MOTOR VEHICLE
+Property,Other Property Crime,Other Property Crime,CRIMINAL TRESPASS
+Property,Other Property Crime,Other Property Crime,CRIMINAL TRESPASS- AGGRAVATED
+Property,Other Property Crime,Other Property Crime,CRIMINAL TRESPASS- AGGRAVATED - HOME/SCHOOL
+Property,Other Property Crime,Other Property Crime,RECEIVE STOLEN PROP
+Property,Other Property Crime,Other Property Crime,"RECOVERY, STOLEN PROPERTY"
+Property,Other Property Crime,Other Property Crime,"CRITICAL INFRASTRUCTURE VANDALISM - $1,000 OR LESS"
+Property,Other Property Crime,Other Property Crime,"CRITICAL INFRASTRUCTURE VANDALISM - $10,000 OR > BUT < $60,000"
+Property,Other Property Crime,Other Property Crime,"CRITICAL INFRASTRUCTURE VANDALISM - $2,500 OR > BUT < $10,000"
+Property,Other Property Crime,Other Property Crime,"CRITICAL INFRASTRUCTURE VANDALISM - $250,000 OR MORE"
+Property,Other Property Crime,Other Property Crime,"CRITICAL INFRASTRUCTURE VANDALISM - > $1,000 BUT < $2,500"
+Property,Other Property Crime,Other Property Crime,DAMAGE PROP - BUSINESS
+Property,Other Property Crime,Other Property Crime,DAMAGE PROP - PRIVATE
+Property,Other Property Crime,Other Property Crime,DAMAGE PROP - PUBLIC
+Property,Other Property Crime,Other Property Crime,DAMAGE PROPERTY
+Property,Other Property Crime,Other Property Crime,"DAMAGE TO PROPERTY, CRIMINAL ATTEMPT"
+Property,Other Property Crime,Other Property Crime,"VANDALISM- $1,000 OR > BUT < $10,000"
+Property,Other Property Crime,Other Property Crime,"VANDALISM- $1,000 OR LESS"
+Property,Other Property Crime,Other Property Crime,"VANDALISM- $2,500 OR > BUT < $10,000"
+Property,Other Property Crime,Other Property Crime,"Vandalism- $250,000 or more"
+Property,Other Property Crime,Other Property Crime,"Vandalism- $60,000 or > but < $250,000"
+Property,Other Property Crime,Other Property Crime,"VANDALISM- > $500 BUT < $1,000"
+Property,Other Property Crime,Other Property Crime,"VANDALISM- >$1,000 BUT < $2,500"
+Property,Other Property Crime,Other Property Crime,"VANDALISM, CRIMINAL ATTEMPT"
+Drug,Drug,Drug,COCAINE - POSSESS
+Drug,Drug,Drug,Consp.-Cont.Sub.- Amphetamine 26-299 gr
+Drug,Drug,Drug,Consp.-Cont.Sub.-Meth 26-299 gr
+Drug,Drug,Drug,CONTRABAND IN PENAL INST.-INTOXICANT/CONTR. SUBSTANCE
+Drug,Drug,Drug,CONTROLLED SUB. ANALOGUE - DELIVER - 1ST OFFENSE
+Drug,Drug,Drug,CONTROLLED SUB. ANALOGUE - MANUFACTURE - 1ST OFFENSE
+Drug,Drug,Drug,CONTROLLED SUB. ANALOGUE - POSS OR CASUAL EXCHANGE
+Drug,Drug,Drug,CONTROLLED SUB. ANALOGUE - POSS W/INTENT - 1ST OFFENSE
+Drug,Drug,Drug,CONTROLLED SUB. ANALOGUE - POSS W/INTENT - 2ND OFFENSE OR MORE
+Drug,Drug,Drug,CONTROLLED SUBSTANCE - POSS. OR CASUAL EXCHANGE
+Drug,Drug,Drug,Delivery - Cont.Sub.-Meth <.5 gr Deadly Weapon
+Drug,Drug,Drug,Delivery -Cont.Sub.-Meth<.5 gr
+Drug,Drug,Drug,Delivery-Cont.Sub.-Meth 26-299 gr
+Drug,Drug,Drug,Delivery-Cont.Sub.-Meth 300 gr or >
+Drug,Drug,Drug,POSS. OR CASUAL EXCHANGE OF HERIN-PRIOR CONVICTIONS
+Drug,Drug,Drug,Poss. or Casual Exchange of Meth
+Drug,Drug,Drug,Poss. or Casual Exchange of Meth - Prior Conviction
+Drug,Drug,Drug,POSS. W/INT -CONT.SUB. -FENTANYL OR DERIVATIVE 150 GR OR >
+Drug,Drug,Drug,POSS. W/INT-CONT.SUB. -FENTANYL OR DERIVATIVE 15-149 GR
+Drug,Drug,Drug,POSS.W/INT-CONT.SUB.- COCAINE <.5 GR.
+Drug,Drug,Drug,Poss.w/Int-Cont.Sub.- Meth 26-299 gr
+Drug,Drug,Drug,POSS.W/INT-CONT.SUB.- SCH. I
+Drug,Drug,Drug,Poss.w/Int-Cont.Sub.-Amphetamine 26-299 gr
+Drug,Drug,Drug,Poss.w/Int-Cont.Sub.-Amphetamine 300gr or >
+Drug,Drug,Drug,Poss.w/Int-Cont.Sub.-Meth <.5 gr
+Drug,Drug,Drug,Poss.w/Int-Cont.Sub.-Meth <5 gr Deadly Weapon
+Drug,Drug,Drug,Poss.w/Int-Cont.Sub.-Meth 300 gr or >
+Drug,Drug,Drug,Poss.w/Int-Cont.Sub.-Meth.5 gr or more
+Drug,Drug,Drug,"DISPENSE PRESCRIPTION DRUG, VOID REGIS. NUMBER"
+Drug,Drug,Drug,Drug Free NonSch.Zone -Cont.Sub.-Meth 26-299 gr
+Drug,Drug,Drug,Drug Free NonSch.Zone-Cont.Sub.-Meth.5 gr or more
+Drug,Drug,Drug,DRUG FREE SCH.ZONE-CONT.SUB.-SCH. IV
+Drug,Drug,Drug,"DRUG OFFENSE, CRIMINAL ATTEMPT (BECOMES DRUG OFFENSE)"
+Drug,Drug,Drug,DRUG PARAPHERNALIA- ADVERTISING
+Drug,Drug,Drug,DRUG PARAPHERNALIA- UNLAWFUL USE
+Drug,Drug,Drug,DRUGS- DISPENSE ILLEGALLY
+Drug,Drug,Drug,"DRUGS, COCAINE, POSSESS"
+Drug,Drug,Drug,"DRUGS, COCAINE, SELL"
+Drug,Drug,Drug,HEROIN
+Drug,Drug,Drug,MANUF. -CONT.SUB. -FENTANYL OR DERIVATIVE 15-149 GR
+Drug,Drug,Drug,MANUF.-CONT.SUB. - METH .5 GR or MORE
+Drug,Drug,Drug,MANUF.-CONT.SUB. - METH <.5 GR
+Drug,Drug,Drug,Manuf.-Cont.Sub.-Amphetamine 300 gr or >
+Drug,Drug,Drug,MARIJUANA - POSSESS
+Drug,Drug,Drug,MARIJUANA - SELL
+Drug,Drug,Drug,MARIJUANA - SMUGGLE
+Drug,Drug,Drug,MARIJUANA (FREE TEXT)
+Drug,Drug,Drug,MARIJUANA CONCENTRATE-MANUFACTURE
+Drug,Drug,Drug,POSSESSION OF A CONTROLLED SUB FOR RESALE
+Drug,Drug,Drug,POSSESSION OF A CONTROLLED SUBSTANCE
+Drug,Drug,Drug,SALE - CONT.SUB.-SCH. I
+Drug,Drug,Drug,Sale -Cont.Sub.-Meth <.5 gr
+Drug,Drug,Drug,Sale -Cont.Sub.-Meth.5 gr or more
+Drug,Drug,Drug,Sale-Cont.Sub.-Amphetamine 26-299 gr
+Drug,Drug,Drug,Sale-Cont.Sub.-Meth 26-299 gr
+Drug,Drug,Drug,Sale-Cont.Sub.-Meth 300 gr or >
+Drug,Drug,Drug,SYNTHETIC CANNABINOIDS VIOLATION - 1ST OFFENSE
+Drug,Drug,Drug,AMPHETAMINE - POSSESS
+Drug,Drug,Drug,AMPHETAMINE - SELL
+Property,White Collar,Counterfeiting,"Counterfeit Log - Manuf. Items - $60,000 or > but < $250,000"
+Property,White Collar,Counterfeiting,COUNTERFEITING
+Property,White Collar,Counterfeiting,COUNTERFEITING OF-SEE MIS
+Property,White Collar,Counterfeiting,POSSESS COUNTERFEITED-SEE MIS
+Property,White Collar,Counterfeiting,IMITATION CONTROLLED SUBSTANCE - POSS W/INTENT
+Property,White Collar,Counterfeiting,IMITATION CONTROLLED SUBSTANCE - SELL
+Property,White Collar,Counterfeiting,IMITATION CONTROLLED SUBSTANCE - USE OR POSSESS
+Property,White Collar,Counterfeiting,PASS COUNTERFEITED-SEE MIS
+Property,White Collar,Counterfeiting,PASS FORGED-SEE MIS
+Property,White Collar,Fraud,IDENTITY THEFT
+Property,White Collar,Fraud,IDENTITY THEFT - POSSESSION- REENCODER OR SCANNING DEVICE
+Property,White Collar,Fraud,IDENTITY THEFT - USE OF REENCODER OR SCANNING DEVICE
+Property,White Collar,Fraud,CRIMINAL IMPERSONATION
+Property,White Collar,Fraud,"Computer Violation, Damage - $250,000 or more"
+Property,White Collar,Fraud,"Criminal Simulation- $250,000 or more"
+Property,White Collar,Fraud,"Criminal Simulation- $60,000 or > but < $250,000"
+Property,White Collar,Fraud,"Workers Compensation Fraud - $60,000 or > but < $250,000"
+Property,White Collar,Fraud,"WORTHLESS CHECK- $10,000 OR > BUT < $60,000"
+Property,White Collar,Fraud,WORTHLESS CHECK- $500 OR LESS
+Property,White Collar,Fraud,WORTHLESS CHECK - ($10 - $99.99)
+Property,White Collar,Fraud,WORTHLESS CHECK - ($100 - $299.99)
+Property,White Collar,Fraud,"WORTHLESS CHECK- $1,000 OR > BUT < $10,000"
+Property,White Collar,Fraud,"Worthless Check- $60,000 or > but < $250,000"
+Property,White Collar,Fraud,"WORTHLESS CHECK- > $500 BUT < $1,000"
+Property,White Collar,Fraud,WOTHLESS CHECK - ($300 - $500)
+Property,White Collar,Fraud,"Computer Violation, Fraud - $250,000 or more"
+Property,White Collar,Fraud,"CREDIT CARD, FRAUDULENT USE - $500 OR LESS"
+Property,White Collar,Fraud,"CREDIT CARD, FRAUDULENT USE - $1,000 OR LESS"
+Property,White Collar,Fraud,"Credit Card, Fraudulent Use - $250,000 or more"
+Property,White Collar,Fraud,"Credit Card, Fraudulent Use - $60,000 or > but < $250,000"
+Property,White Collar,Fraud,"CREDIT CARD, FRAUDULENT USE - >$1,000 BUT < $2,500"
+Property,White Collar,Fraud,POSSESS FORGED-SEE MIS
+Property,White Collar,Fraud,"FORGE/SIMULATE, CRIMINAL ATTEMPT"
+Property,White Collar,Fraud,FORGERY
+Property,White Collar,Fraud,"Forgery- $60,000 or > but < $250,000"
+Property,White Collar,Fraud,FRAUD
+Property,White Collar,Fraud,FRAUD - ILLEG USE OF CREDIT CARDS
+Property,White Collar,Fraud,FRAUD - INSUFF FUNDS CHECK
+Property,White Collar,Fraud,FRAUD - BREACH OF TRUST
+Property,White Collar,Fraud,FRAUD - CONFIDENCE GAME
+Property,White Collar,Fraud,FRAUD - SWINDLE
+Property,White Collar,Fraud,FRAUD BY WIRE
+Property,White Collar,Fraud,"FRAUD, CRIMINAL ATTEMPT"
+Property,White Collar,Fraud,"Insurance - fraudulent act - $60,000 or > but < $250,000"
+Property,White Collar,Embezzlement,EMBEZZLE - BANKING-TYPE-INST
+Property,White Collar,Embezzlement,EMBEZZLE - BUSINESS PROP
+Property,White Collar,Embezzlement,EMBEZZLEMENT
+Property,White Collar,Embezzlement,"EMBEZZLEMENT, CRIMINAL ATTEMPT"
+Gambling,Gambling,Gambling,GAMBLING
+Gambling,Gambling,Gambling,GAMBLING DEVICE OR RECORD- POSSESSION
+Gambling,Gambling,Gambling,GAMBLING PROMOTION

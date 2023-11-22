@@ -1,0 +1,14 @@
+﻿category_1,category_2,category_3,Description
+Violent,Homicide,Unclassified,HOMICIDE
+Violent,Rape,Rape,RAPE
+Violent,Robbery,Robbery,ROBBERY - STREET
+Violent,Robbery,Robbery,ROBBERY - CARJACKING
+Violent,Robbery,Robbery,ROBBERY - COMMERCIAL
+Violent,Robbery,Robbery,ROBBERY - RESIDENCE
+Violent,Assault,Aggravated Assault,AGG. ASSAULT
+Violent,Assault,Simple Assault,COMMON ASSAULT
+Property,Burglary,Unclassified,BURGLARY
+Property,Theft,Grand Larceny Auto,AUTO THEFT
+Property,Theft,Theft from Auto,LARCENY FROM AUTO
+Property,Theft,Unclassified,LARCENY
+Property,Arson,Arson,ARSON

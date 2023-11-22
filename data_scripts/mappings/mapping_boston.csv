@@ -1,0 +1,124 @@
+﻿category_1,category_2,category_3,OFFENSE_DESCRIPTION
+Violent,Homicide,Murder,"MURDER, NON-NEGLIGIENT MANSLAUGHTER"
+Violent,Homicide,Manslaughter,MANSLAUGHTER - NON-VEHICLE - NEGLIGENCE
+Violent,Homicide,Manslaughter,MANSLAUGHTER - VEHICLE - NEGLIGENCE
+Violent,Rape,Rape,SEX OFFENSE - RAPE - FORCIBLE
+Violent,Rape,Rape,SEX OFFENSE - RAPE - SODOMY
+Violent,Robbery,Robbery,ROBBERY
+Violent,Robbery,Robbery,ROBBERY - BANK
+Violent,Robbery,Robbery,ROBBERY - CAR JACKING
+Violent,Robbery,Robbery,ROBBERY - COMMERCIAL
+Violent,Robbery,Robbery,ROBBERY - HOME INVASION
+Violent,Robbery,Robbery,ROBBERY - KNIFE - STREET
+Violent,Robbery,Robbery,ROBBERY - OTHER
+Violent,Robbery,Robbery,ROBBERY - STREET
+Violent,Robbery,Robbery,ROBBERY - UNARMED - BUSINESS
+Violent,Robbery,Robbery,ROBBERY - UNARMED - CHAIN STORE
+Violent,Robbery,Robbery,ROBBERY - UNARMED - RESIDENCE
+Violent,Robbery,Robbery,ROBBERY - UNARMED - STREET
+Violent,Robbery,Robbery,ROBBERY ATTEMPT - KNIFE - BANK
+Violent,Assault,Aggravated Assault,ASSAULT - AGGRAVATED
+Violent,Assault,Aggravated Assault,ASSAULT - AGGRAVATED - BATTERY
+Violent,Assault,Aggravated Assault,ASSAULT & BATTERY D/W - KNIFE
+Violent,Assault,Aggravated Assault,ASSAULT & BATTERY D/W - OTHER
+Violent,Assault,Aggravated Assault,ASSAULT & BATTERY D/W - OTHER ON POLICE OFFICER
+Violent,Assault,Aggravated Assault,ASSAULT D/W - KNIFE ON POLICE OFFICER
+Violent,Assault,Aggravated Assault,ASSAULT D/W - OTHER
+Violent,Assault,Simple Assault,ASSAULT - SIMPLE
+Violent,Assault,Simple Assault,ASSAULT SIMPLE - BATTERY
+Violent,Assault,Unclassified,ASSAULT & BATTERY
+Property,Burglary,Residential Burglary,BURGLARY - RESIDENTIAL
+Property,Burglary,Residential Burglary,BURGLARY - RESIDENTIAL - ATTEMPT
+Property,Burglary,Residential Burglary,BURGLARY - RESIDENTIAL - FORCE
+Property,Burglary,Residential Burglary,BURGLARY - RESIDENTIAL - NO FORCE
+Property,Burglary,Non-Residential Burglary,BURGLARY - COMMERICAL
+Property,Burglary,Non-Residential Burglary,BURGLARY - COMMERICAL - ATTEMPT
+Property,Burglary,Non-Residential Burglary,BURGLARY - COMMERICAL - FORCE
+Property,Burglary,Non-Residential Burglary,BURGLARY - COMMERICAL - NO FORCE
+Property,Burglary,Unclassified,BURGLARY - OTHER - ATTEMPT
+Property,Burglary,Unclassified,BURGLARY - OTHER - FORCE
+Property,Burglary,Unclassified,BURGLARY - OTHER - NO FORCE
+Property,Theft,Grand Larceny Auto,AUTO THEFT
+Property,Theft,Grand Larceny Auto,AUTO THEFT - LEASED/RENTED VEHICLE
+Property,Theft,Grand Larceny Auto,AUTO THEFT - MOTORCYCLE / SCOOTER
+Property,Theft,Grand Larceny Auto,AUTO THEFT - OUTSIDE - RECOVERED IN BOSTON
+Property,Theft,Grand Larceny Auto,AUTO THEFT - RECOVERED IN BY POLICE
+Property,Theft,Grand Larceny Auto,AUTO THEFT LEASE/RENT VEHICLE
+Property,Theft,Grand Larceny Auto,AUTO THEFT OTHER
+Property,Theft,Theft from Auto,BREAKING AND ENTERING (B&E) MOTOR VEHICLE
+Property,Theft,Theft from Auto,BREAKING AND ENTERING (B&E) MOTOR VEHICLE (NO PROPERTY STOLEN)
+Property,Theft,Theft from Auto,LARCENY NON-ACCESSORY FROM VEH. $50 TO $199
+Property,Theft,Theft from Auto,LARCENY NON-ACCESSORY FROM VEH. UNDER $50
+Property,Theft,Theft from Auto,LARCENY THEFT OF MV PARTS & ACCESSORIES
+Property,Theft,Grand Larceny,LARCENY NON-ACCESSORY FROM VEH. $200 & OVER
+Property,Theft,Grand Larceny,LARCENY BICYCLE $200 & OVER
+Property,Theft,Grand Larceny,LARCENY IN A BUILDING $200 & OVER
+Property,Theft,Grand Larceny,LARCENY OTHER $200 & OVER
+Property,Theft,Grand Larceny,LARCENY SHOPLIFTING $200 & OVER
+Property,Theft,Other Theft,LARCENY ALL OTHERS
+Property,Theft,Other Theft,LARCENY IN A BUILDING $50 TO $199
+Property,Theft,Other Theft,LARCENY IN A BUILDING UNDER $50
+Property,Theft,Other Theft,LARCENY OTHER $50 TO $199
+Property,Theft,Other Theft,LARCENY OTHER UNDER $50
+Property,Theft,Other Theft,LARCENY PICK-POCKET
+Property,Theft,Other Theft,LARCENY PURSE SNATCH - NO FORCE
+Property,Theft,Other Theft,LARCENY PURSE SNATCH - NO FORCE
+Property,Theft,Other Theft,LARCENY SHOPLIFTING
+Property,Theft,Other Theft,LARCENY SHOPLIFTING $50 TO $199
+Property,Theft,Other Theft,LARCENY SHOPLIFTING UNDER $50
+Property,Theft,Other Theft,LARCENY THEFT FROM BUILDING
+Property,Theft,Other Theft,LARCENY THEFT FROM COIN-OP MACHINE
+Property,Theft,Other Theft,LARCENY THEFT FROM MV - NON-ACCESSORY
+Property,Theft,Other Theft,LARCENY THEFT OF BICYCLE
+Property,Arson,Arson,ARSON
+Property,Other Property Crime,Other Property Crime,TRESPASSING
+Property,Other Property Crime,Other Property Crime,VANDALISM
+Property,Other Property Crime,Other Property Crime,STOLEN PROPERTY - BUYING / RECEIVING / POSSESSING
+Property,Other Property Crime,Other Property Crime,PROPERTY - ACCIDENTAL DAMAGE
+Property,Other Property Crime,Other Property Crime,PROPERTY - CONCEALING LEASED
+Property,Other Property Crime,Other Property Crime,PROPERTY - FOUND
+Property,Other Property Crime,Other Property Crime,PROPERTY - LOST
+Property,Other Property Crime,Other Property Crime,PROPERTY - LOST THEN LOCATED
+Property,Other Property Crime,Other Property Crime,PROPERTY - LOST/ MISSING
+Property,Other Property Crime,Other Property Crime,PROPERTY - MISSING
+Property,Other Property Crime,Other Property Crime,PROPERTY - RECEIVING STOLEN
+Property,Other Property Crime,Other Property Crime,PROPERTY - STOLEN THEN RECOVERED
+Drug,Drug,Drug,DRUGS - CLASS A TRAFFICKING OVER 18 GRAMS
+Drug,Drug,Drug,DRUGS - CLASS B TRAFFICKING OVER 18 GRAMS
+Drug,Drug,Drug,DRUGS - CLASS D TRAFFICKING OVER 50 GRAMS
+Drug,Drug,Drug,DRUGS - CONSP TO VIOL CONTROLLED SUBSTANCE
+Drug,Drug,Drug,DRUGS - GLUE INHALATION
+Drug,Drug,Drug,DRUGS - OTHER
+Drug,Drug,Drug,"DRUGS - POSS CLASS A - HEROIN, ETC."
+Drug,Drug,Drug,"DRUGS - POSS CLASS A - HEROIN, ETC."
+Drug,Drug,Drug,DRUGS - POSS CLASS A - INTENT TO MFR DIST DISP
+Drug,Drug,Drug,"DRUGS - POSS CLASS B - COCAINE, ETC."
+Drug,Drug,Drug,DRUGS - POSS CLASS B - INTENT TO MFR DIST DISP
+Drug,Drug,Drug,DRUGS - POSS CLASS C
+Drug,Drug,Drug,DRUGS - POSS CLASS C - INTENT TO MFR DIST DISP
+Drug,Drug,Drug,DRUGS - POSS CLASS D
+Drug,Drug,Drug,DRUGS - POSS CLASS D - INTENT MFR DIST DISP
+Drug,Drug,Drug,DRUGS - POSS CLASS D - INTENT TO MFR DIST DISP
+Drug,Drug,Drug,"DRUGS - POSS CLASS D - MARIJUANA, ETC."
+Drug,Drug,Drug,DRUGS - POSS CLASS E
+Drug,Drug,Drug,DRUGS - POSS CLASS E - INTENT TO MFR DIST DISP
+Drug,Drug,Drug,DRUGS - POSS CLASS E INTENT TO MF DIST DISP
+Drug,Drug,Drug,DRUGS - POSSESSION
+Drug,Drug,Drug,DRUGS - POSSESSION OF DRUG PARAPHANALIA
+Drug,Drug,Drug,DRUGS - POSSESSION/ SALE/ MANUFACTURING/ USE
+Drug,Drug,Drug,DRUGS - SALE / MANUFACTURING
+Drug,Drug,Drug,DRUGS - SICK ASSIST - HEROIN
+Drug,Drug,Drug,DRUGS - SICK ASSIST - OTHER HARMFUL DRUG
+Drug,Drug,Drug,DRUGS - SICK ASSIST - OTHER NARCOTIC
+Property,White Collar,Counterfeiting,COUNTERFEITING
+Property,White Collar,Counterfeiting,FORGERY / COUNTERFEITING
+Property,White Collar,Counterfeiting,FORGERY OR UTTERING
+Property,White Collar,Fraud,FRAUD - CREDIT CARD / ATM FRAUD
+Property,White Collar,Fraud,FRAUD - FALSE PRETENSE
+Property,White Collar,Fraud,FRAUD - FALSE PRETENSE / SCHEME
+Property,White Collar,Fraud,FRAUD - IMPERSONATION
+Property,White Collar,Fraud,FRAUD - WELFARE
+Property,White Collar,Fraud,FRAUD - WIRE
+Property,White Collar,Fraud,FRAUDS - ALL OTHER
+Property,White Collar,Embezzlement,EMBEZZLEMENT
+Gambling,Gambling,Gambling,GAMBLING - BETTING / WAGERING

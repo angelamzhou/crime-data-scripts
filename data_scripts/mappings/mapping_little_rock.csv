@@ -1,0 +1,15 @@
+﻿category_1,category_2,category_3,offense_description
+Violent,Homicide,Unclassified,MURDER & NONNEGLIGENT MANSLAUGHTER
+Violent,Rape,Rape,RAPE
+Violent,Robbery,Robbery,ROBBERY
+Violent,Assault,Aggravated Assault,AGGRAVATED ASSAULT
+Property,Burglary,Unclassified,BURGLARY/B&E
+Property,Theft,Grand Larceny Auto,MOTOR VEHICLE THEFT
+Property,Theft,Theft from Auto,THEFT FROM MOTOR VEHICLE
+Property,Theft,Theft from Auto,THEFT OF MOTOR VEHICLE PARTS
+Property,Theft,Unclassified,SHOPLIFTING
+Property,Theft,Unclassified,ALL OTHER LARCENY
+Property,Theft,Unclassified,THEFT FROM BUILDING
+Property,Theft,Unclassified,POCKET-PICKING
+Property,Theft,Unclassified,THEFT FROM COIN-OPERATED MACHINE
+Property,Theft,Unclassified,PURSE-SNATCHING

@@ -1,0 +1,65 @@
+﻿cd_type,IBR CODES,IBR DESCRIPTIONS
+IBR,26F,Identity Theft
+IBR,26G,Hacking/Computer Invasion
+IBR,64A,Human Trafficking - Commercial Sex Acts
+IBR,64B,Human Trafficking - Involuntary Servitude
+IBR,720,Animal Cruelty
+IBR,09A,Murder and Non-Negligent Manslaughter
+IBR,09B,Negligent Manslaughter
+IBR,09C,Justifiable Homicide
+IBR,100,Kidnaping
+IBR,11A,Forcible Rape
+IBR,11B,Forcible Sodomy
+IBR,11C,Sexual Assault with an object
+IBR,11D,Forcible Fondling
+IBR,11E,Course of Repeated Sexual Contact
+IBR,120,Robbery
+IBR,13A,Aggravated Assault
+IBR,13B,Simple Assault
+IBR,13C,Intimidation
+IBR,200,Arson
+IBR,210,Extortion/Blackmail
+IBR,220,Burglary/Breaking and Entering
+IBR,23A,Pocket-Picking
+IBR,23B,Purse-Snatching
+IBR,23C,Shoplifting
+IBR,23D,Theft from a Building
+IBR,23E,Theft from a Coin-Operated Machine or Device
+IBR,23F,Theft from a Motor Vehicle
+IBR,23G,Theft of Motor Vehicle Parts or Accessories
+IBR,23H,All Other Larceny
+IBR,240,Motor Vehicle Theft
+IBR,250,Counterfeiting/Forgery
+IBR,26A,False Pretenses/Swindle/Confidence Game
+IBR,26B,Credit Card/ATM Fraud
+IBR,26C,Impersonation
+IBR,26D,Welfare Fraud
+IBR,26E,Wire Fraud
+IBR,270,Embezzlement
+IBR,280,Stolen Property Offenses
+IBR,290,Destruction/Damage/Vandalism of Property
+IBR,35A,Drug/Narcotic Violations
+IBR,35B,Drug Equipment Violations
+IBR,36A,Incest
+IBR,36B,Statutory Rape
+IBR,370,Pornography/Obscene Material
+IBR,39A,Betting/Wagering
+IBR,39B,Operating/Promoting/Assisting Gambling
+IBR,39C,Gambling Equipment Violations
+IBR,39D,Sports Tampering
+IBR,40A,Prostitution
+IBR,40B,Assisting or Promoting Prostitution
+IBR,510,Bribery
+IBR,520,Weapon Law Violations
+IBR,90A,Bad Checks
+IBR,90B,Curfew/Loitering/Vagrancy Violations
+IBR,90C,Disorderly Conduct
+IBR,90D,Driving Under the Influence
+IBR,90E,Drunkenness
+IBR,90F,"Family Offense, Nonviolent"
+IBR,90G,Liquor Law Violations
+IBR,90H,Peeping Tom
+IBR,90I,Runaway
+IBR,90J,Trespass of Real Property
+IBR,90Z,All Other Offenses
+IBR,999,Do Not Count

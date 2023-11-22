@@ -1,0 +1,14 @@
+﻿category_1,category_2,category_3,UC2_Literal
+Violent,Homicide,Murder,HOMICIDE
+Violent,Homicide,Manslaughter,MANSLAUGHTER
+Violent,Robbery,Robbery,ROBBERY
+Violent,Robbery,Robbery,ROBBERY-COMMERCIAL
+Violent,Robbery,Robbery,ROBBERY-PEDESTRIAN
+Violent,Robbery,Robbery,ROBBERY-RESIDENCE
+Violent,Assault,Aggravated Assault,AGG ASSAULT
+Property,Burglary,Residential Burglary,BURGLARY-RESIDENCE
+Property,Burglary,Non-Residential Burglary,BURGLARY-NONRES
+Property,Burglary,Unclassified,BURGLARY
+Property,Theft,Grand Larceny Auto,AUTO THEFT
+Property,Theft,Theft from Auto,LARCENY-FROM VEHICLE
+Property,Theft,Unclassified,LARCENY-NON VEHICLE

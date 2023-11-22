@@ -1,0 +1,33 @@
+﻿category_1,category_2,category_3,OffenseType
+Violent,Homicide,Murder,Murder and Non-negligent Manslaughter
+Violent,Homicide,Manslaughter,Negligent Manslaughter
+Violent,Rape,Rape,Sodomy
+Violent,Rape,Rape,Rape
+Violent,Robbery,Robbery,Robbery
+Violent,Assault,Aggravated Assault,Aggravated Assault
+Violent,Assault,Simple Assault,Simple Assault
+Property,Burglary,Unclassified,Burglary
+Property,Theft,Grand Larceny Auto,Motor Vehicle Theft
+Property,Theft,Theft from Auto,Theft From Motor Vehicle
+Property,Theft,Theft from Auto,Theft of Motor Vehicle Parts or Accessories
+Property,Theft,Unclassified,Theft From Building
+Property,Theft,Unclassified,All Other Larceny
+Property,Theft,Unclassified,Purse-Snatching
+Property,Theft,Unclassified,Shoplifting
+Property,Theft,Unclassified,Pocket-Picking
+Property,Theft,Unclassified,Theft From Coin-Operated Machine or Device
+Property,Arson,Arson,Arson
+Property,Other Property Crime,Other Property Crime,Vandalism
+Property,Other Property Crime,Other Property Crime,Stolen Property Offenses
+Drug,Drug,Drug,Drug/Narcotic Violations
+Drug,Drug,Drug,Drug Equipment Violations
+Property,White Collar,Counterfeiting,Counterfeiting/Forgery
+Property,White Collar,Fraud,False Pretenses/Swindle/Confidence Game
+Property,White Collar,Fraud,Identity Theft
+Property,White Collar,Fraud,Credit Card/ATM Fraud
+Property,White Collar,Fraud,Impersonation
+Property,White Collar,Fraud,Welfare Fraud
+Property,White Collar,Fraud,Wire Fraud
+Property,White Collar,Fraud,Hacking/Computer Invasion
+Property,White Collar,Embezzlement,Embezzlement
+Gambling,Gambling,Gambling,Operating/Promoting/Assisting Gambling

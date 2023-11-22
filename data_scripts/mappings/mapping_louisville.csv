@@ -1,0 +1,12 @@
+﻿category_1,category_2,category_3,CRIME_TYPE
+Violent,Homicide,Unclassified,HOMICIDE
+Violent,Robbery,Robbery,ROBBERY
+Violent,Assault,Unclassified,ASSAULT
+Property,Burglary,Unclassified,BURGLARY
+Property,Theft,Grand Larceny Auto,MOTOR VEHICLE THEFT
+Property,Theft,Theft from Auto,VEHICLE BREAK-IN/THEFT
+Property,Theft,Unclassified,THEFT/LARCENY
+Property,Arson,Arson,ARSON
+Property,Other Property Crime,Other Property Crime,VANDALISM
+Drug,Drug,Drug,DRUGS/ALCOHOL VIOLATIONS
+Property,White Collar,Fraud,FRAUD

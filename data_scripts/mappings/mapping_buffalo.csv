@@ -1,0 +1,19 @@
+﻿category_1,category_2,category_3,incident_type_primary
+Violent,Homicide,Murder,MURDER
+Violent,Homicide,Manslaughter,MANSLAUGHTER
+Violent,Homicide,Unclassified,CRIM NEGLIGENT HOMICIDE
+Violent,Homicide,Unclassified,Homicide
+Violent,Rape,Rape,RAPE
+Violent,Robbery,Robbery,ROBBERY
+Violent,Robbery,Robbery,Robbery
+Violent,Assault,Aggravated Assault,AGGR ASSAULT
+Violent,Assault,Aggravated Assault,AGG ASSAULT ON P/OFFICER
+Violent,Assault,Unclassified,ASSAULT
+Violent,Assault,Unclassified,Assault
+Property,Burglary,Unclassified,BURGLARY
+Property,Burglary,Unclassified,Breaking & Entering
+Property,Theft,Grand Larceny Auto,UUV
+Property,Theft,Grand Larceny Auto,Theft of Vehicle
+Property,Theft,Unclassified,LARCENY/THEFT
+Property,Theft,Unclassified,Theft
+Property,Theft,Unclassified,THEFT OF SERVICES

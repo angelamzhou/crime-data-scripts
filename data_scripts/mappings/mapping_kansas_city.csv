@@ -1,0 +1,111 @@
+﻿category_1,category_2,category_3,offense
+Violent,Homicide,Murder,Murder
+Violent,Homicide,Unclassified,HOMICIDE/Non Neglige
+Violent,Homicide,Unclassified,101
+Violent,Rape,Rape,201
+Violent,Rape,Rape,210
+Violent,Rape,Rape,Rape
+Violent,Rape,Rape,Rape - Juvenile
+Violent,Rape,Rape,Forcible Sodomy
+Violent,Rape,Rape,Sodomy
+Violent,Robbery,Robbery,Robbery (Residential)
+Violent,Robbery,Robbery,301
+Violent,Robbery,Robbery,302
+Violent,Robbery,Robbery,Armed Robbery
+Violent,Robbery,Robbery,Robbery (Armed Street)
+Violent,Robbery,Robbery,Robbery (Business)
+Violent,Robbery,Robbery,Robbery (Financial Institution)
+Violent,Robbery,Robbery,Robbery (Residential)
+Violent,Robbery,Robbery,Robbery (Strong Armed Street)
+Violent,Robbery,Robbery,Strong Arm Robbery
+Violent,Assault,Aggravated Assault,401
+Violent,Assault,Aggravated Assault,402
+Violent,Assault,Aggravated Assault,403
+Violent,Assault,Aggravated Assault,Agg Assault - Domest
+Violent,Assault,Aggravated Assault,Agg Assault - Drive-
+Violent,Assault,Aggravated Assault,Aggravated Assault (
+Violent,Assault,Aggravated Assault,Assault (Aggravated)
+Violent,Assault,Aggravated Assault,Assault (Aggravated) on Department Member/Outside Law Enforcement Officer
+Violent,Assault,Simple Assault,801
+Violent,Assault,Simple Assault,802
+Violent,Assault,Simple Assault,Assault (Non-Aggravated)
+Violent,Assault,Simple Assault,Assault (Non-Aggravated) on Department Member/Outside Law Enforcement Officer
+Violent,Assault,Simple Assault,Non Aggravated Assau
+Property,Burglary,Residential Burglary,501
+Property,Burglary,Residential Burglary,Burglary - Residence
+Property,Burglary,Residential Burglary,Burglary (Residential)
+Property,Burglary,Non-Residential Burglary,502
+Property,Burglary,Non-Residential Burglary,Burglary - Non Resid
+Property,Burglary,Non-Residential Burglary,Burglary (Non-Residential)
+Property,Theft,Grand Larceny Auto,702
+Property,Theft,Grand Larceny Auto,799
+Property,Theft,Grand Larceny Auto,Auto Theft
+Property,Theft,Grand Larceny Auto,Auto Theft Outside S
+Property,Theft,Grand Larceny Auto,Stolen Auto
+Property,Theft,Theft from Auto,640
+Property,Theft,Theft from Auto,650
+Property,Theft,Theft from Auto,Stealing From Auto
+Property,Theft,Theft from Auto,Stealing from Auto (Auto Part or Accessory)
+Property,Theft,Theft from Auto,Stealing from Auto (Theft from Auto)
+Property,Theft,Other Theft,610
+Property,Theft,Other Theft,620
+Property,Theft,Other Theft,630
+Property,Theft,Other Theft,660
+Property,Theft,Other Theft,670
+Property,Theft,Other Theft,680
+Property,Theft,Other Theft,690
+Property,Theft,Other Theft,Stealing – Other
+Property,Theft,Other Theft,Stealing – Pickpocket
+Property,Theft,Other Theft,Stealing – Purse Snatch
+Property,Theft,Other Theft,Stealing – Shoplift
+Property,Theft,Other Theft,Stealing All Other
+Property,Theft,Other Theft,Stealing Auto Parts/
+Property,Theft,Other Theft,Stealing Bicycles
+Property,Theft,Other Theft,Stealing Coin Operat
+Property,Theft,Other Theft,Stealing from Buildi
+Property,Theft,Other Theft,Stealing from Building/Residence
+Property,Theft,Other Theft,Stealing from Coin Operated Device
+Property,Theft,Other Theft,Stealing Pickpocket
+Property,Theft,Other Theft,Stealing Purse Snatc
+Property,Theft,Other Theft,Stealing Shoplifting
+Property,Theft,Other Theft,Stolen Property OFFE
+Property,Arson,Arson,901
+Property,Arson,Arson,902
+Property,Arson,Arson,Arson
+Property,Other Property Crime,Other Property Crime,1352
+Property,Other Property Crime,Other Property Crime,1401
+Property,Other Property Crime,Other Property Crime,2655
+Property,Other Property Crime,Other Property Crime,Trespass of Real Property
+Property,Other Property Crime,Other Property Crime,Trespassing
+Drug,Drug,Drug,1849
+Drug,Drug,Drug,1850
+Drug,Drug,Drug,Possession of Drug E
+Drug,Drug,Drug,Possession of Drug Paraphernalia
+Property,White Collar,Counterfeiting,1001
+Property,White Collar,Counterfeiting,1002
+Property,White Collar,Counterfeiting,1050
+Property,White Collar,Counterfeiting,Counterfeiting
+Property,White Collar,Counterfeiting,Forgery
+Property,White Collar,Counterfeiting,2603
+Property,White Collar,Counterfeiting,2604
+Property,White Collar,Counterfeiting,2663
+Property,White Collar,Counterfeiting,False ID
+Property,White Collar,Counterfeiting,False Information to
+Property,White Collar,Counterfeiting,Passing Bad Checks
+Property,White Collar,Fraud,1120
+Property,White Collar,Fraud,1122
+Property,White Collar,Fraud,1170
+Property,White Collar,Fraud,1188
+Property,White Collar,Fraud,1189
+Property,White Collar,Fraud,1197
+Property,White Collar,Fraud,1198
+Property,White Collar,Fraud,1199
+Property,White Collar,Fraud,Credit/Debit/ATM Car
+Property,White Collar,Fraud,fraud
+Property,White Collar,Fraud,Wire Fraud
+Property,White Collar,Fraud,Hacking/Computer Inv
+Property,White Collar,Fraud,Hacking/Computer Invasion
+Property,White Collar,Embezzlement,1201
+Property,White Collar,Embezzlement,Embezzlement
+Gambling,Gambling,Gambling,1940
+Gambling,Gambling,Gambling,Gambling - Possessio
