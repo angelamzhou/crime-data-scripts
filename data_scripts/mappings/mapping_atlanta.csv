@@ -1,14 +1,30 @@
-﻿category_1,category_2,category_3,UC2_Literal
-Violent,Homicide,Murder,HOMICIDE
-Violent,Homicide,Manslaughter,MANSLAUGHTER
-Violent,Robbery,Robbery,ROBBERY
-Violent,Robbery,Robbery,ROBBERY-COMMERCIAL
-Violent,Robbery,Robbery,ROBBERY-PEDESTRIAN
-Violent,Robbery,Robbery,ROBBERY-RESIDENCE
-Violent,Assault,Aggravated Assault,AGG ASSAULT
-Property,Burglary,Residential Burglary,BURGLARY-RESIDENCE
-Property,Burglary,Non-Residential Burglary,BURGLARY-NONRES
-Property,Burglary,Unclassified,BURGLARY
-Property,Theft,Grand Larceny Auto,AUTO THEFT
-Property,Theft,Theft from Auto,LARCENY-FROM VEHICLE
-Property,Theft,Unclassified,LARCENY-NON VEHICLE
+﻿category_1,category_2,category_3,NIBRS Code Name
+Violent,Robbery,Robbery,Robbery
+Property,White Collar,Embezzlement,Embezzlement
+Property,Theft,Unclassified,Shoplifting
+Property,Theft,Unclassified,Theft From Building
+Violent,Rape,Rape,Rape
+Violent,Assault,Aggravated Assault,Arson
+Violent,Rape,Rape,Statutory Rape
+Violent,Rape,Rape,Sodomy
+Violent,Assault,Aggravated Assault,Aggravated Assault
+Property,Theft,Unclassified,All Other Larceny
+Property,Theft,Grand Larceny Auto,Motor Vehicle Theft
+Property,Theft,Theft from Auto,Theft From Motor Vehicle
+Violent,Assault,Simple Assault,Simple Assault
+Property,Theft,Unclassified,Purse-snatching
+Property,White Collar,Fraud,Wire Fraud
+Property,Other Property Crime,Other Property Crime,Stolen Property Offenses
+Drug,Drug,Drug,Drug Equipment Violations
+Property,White Collar,Fraud,Welfare Fraud
+Property,Theft,Unclassified,Pocket-picking
+Property,White Collar,Fraud,Hacking/Computer Invasion
+Gambling,Gambling,Gambling,Gambling Equipment Violation
+Violent,Homicide,Unclassified,Murder & Nonnegligent Manslaughter
+Drug,Drug,Drug,Drug/Narcotic Violations
+Property,White Collar,Fraud,False Pretenses/Swindle/Confidence Game
+Property,White Collar,Counterfeiting,Counterfeiting/Forgery
+Property,Theft,Theft from Auto,Theft of Motor Vehicle Parts or Accessories
+Property,Theft,Unclassified,Theft From Coin-Operated Machine or Device
+Gambling,Gambling,Gambling,Operating/Promoting/Assisting Gambling
+Property,Other Property Crime,Other Property Crime,Destruction/Damage/Vandalism of Property
