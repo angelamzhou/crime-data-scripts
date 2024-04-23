@@ -1,112 +1,102 @@
-﻿category_1,category_2,category_3,OFFENSE_TYPE_ID,OFFENSE_CATEGORY_ID
-Violent,Homicide,Murder,homicide-other,murder
-Violent,Homicide,Murder,homicide-family,murder
-Violent,Homicide,Murder,traf-vehicular-homicide,murder
-Violent,Homicide,Murder,homicide-negligent,murder
-Violent,Homicide,Murder,homicide-police-by-gun,murder
-Violent,Rape,Rape,sex-aslt-rape,sexual-assault
-Violent,Rape,Rape,sex-aslt-rape-pot,sexual-assault
-Violent,Rape,Rape,sex-asslt-sodomy-man-strng-arm,sexual-assault
-Violent,Robbery,Robbery,robbery-residence,robbery
-Violent,Robbery,Robbery,robbery-business,robbery
-Violent,Robbery,Robbery,robbery-car-jacking,robbery
-Violent,Robbery,Robbery,robbery-bank,robbery
-Violent,Robbery,Robbery,robbery-street,robbery
-Violent,Robbery,Robbery,robbery-purse-snatch-w-force,robbery
-Violent,Assault,Aggravated Assault,aggravated-assault-dv,aggravated-assault
-Violent,Assault,Aggravated Assault,menacing-felony-w-weap,aggravated-assault
-Violent,Assault,Aggravated Assault,aggravated-assault,aggravated-assault
-Violent,Assault,Aggravated Assault,weapon-fire-into-occ-bldg,aggravated-assault
-Violent,Assault,Aggravated Assault,weapon-fire-into-occ-veh,aggravated-assault
-Violent,Assault,Aggravated Assault,agg-aslt-police-weapon,all-other-crimes
-Violent,Assault,Aggravated Assault,aslt-agg-police-gun,all-other-crimes
-Violent,Assault,Simple Assault,assault-dv,other-crimes-against-persons
-Violent,Assault,Simple Assault,assault-simple,other-crimes-against-persons
-Violent,Assault,Simple Assault,assault-police-simple,other-crimes-against-persons
-Property,Burglary,Residential Burglary,burglary-residence-by-force,burglary
-Property,Burglary,Residential Burglary,burglary-residence-no-force,burglary
-Property,Burglary,Non-Residential Burglary,burglary-business-by-force,burglary
-Property,Burglary,Non-Residential Burglary,burglary-business-no-force,burglary
-Property,Burglary,Unclassified,burglary-poss-of-tools,burglary
-Property,Burglary,Unclassified,burg-auto-theft-resd-no-force,burglary
-Property,Burglary,Unclassified,burg-auto-theft-busn-no-force,burglary
-Property,Burglary,Unclassified,burg-auto-theft-resd-w-force,burglary
-Property,Burglary,Unclassified,burg-auto-theft-busn-w-force,burglary
-Property,Burglary,Unclassified,burglary-safe,burglary
-Property,Theft,Grand Larceny Auto,theft-of-motor-vehicle,auto-theft
-Property,Theft,Grand Larceny Auto,theft-stln-veh-const-eqpt,auto-theft
-Property,Theft,Grand Larceny Auto,theft-stln-vehicle-trailer,auto-theft
-Property,Theft,Theft from Auto,theft-items-from-vehicle,theft-from-motor-vehicle
-Property,Theft,Theft from Auto,theft-parts-from-vehicle,theft-from-motor-vehicle
-Property,Theft,Unclassified,theft-other,larceny
-Property,Theft,Unclassified,theft-from-bldg,larceny
-Property,Theft,Unclassified,theft-bicycle,larceny
-Property,Theft,Unclassified,theft-shoplift,larceny
-Property,Theft,Unclassified,theft-purse-snatch-no-force,larceny
-Property,Theft,Unclassified,theft-of-services,larceny
-Property,Theft,Unclassified,theft-from-mails,larceny
-Property,Theft,Unclassified,theft-pick-pocket,larceny
-Property,Theft,Unclassified,theft-gas-drive-off,larceny
-Property,Theft,Unclassified,burglary-vending-machine,larceny
-Property,Theft,Unclassified,theft-of-cable-services,larceny
-Property,Theft,Unclassified,theft-from-yards,larceny
-Property,Arson,Arson,arson-business,arson
-Property,Arson,Arson,arson-residence,arson
-Property,Arson,Arson,arson-vehicle,arson
-Property,Arson,Arson,arson-other,arson
-Property,Arson,Arson,arson-public-building,arson
-Property,Other Property Crime,Other Property Crime,property-crimes-other,all-other-crimes
-Property,Other Property Crime,Other Property Crime,criminal-mischief-graffiti,public-disorder
-Drug,Drug,Drug,drug-opium-or-deriv-sell,drug-alcohol
-Drug,Drug,Drug,drug-pcs-other-drug,drug-alcohol
-Drug,Drug,Drug,drug-heroin-sell,drug-alcohol
-Drug,Drug,Drug,drug-make-sell-other-drug,drug-alcohol
-Drug,Drug,Drug,drug-poss-paraphernalia,drug-alcohol
-Drug,Drug,Drug,drug-marijuana-possess,drug-alcohol
-Drug,Drug,Drug,liquor-sell,drug-alcohol
-Drug,Drug,Drug,liquor-possession,drug-alcohol
-Drug,Drug,Drug,drug-methampetamine-sell,drug-alcohol
-Drug,Drug,Drug,drug-heroin-possess,drug-alcohol
-Drug,Drug,Drug,drug-methampetamine-possess,drug-alcohol
-Drug,Drug,Drug,drug-opium-or-deriv-possess,drug-alcohol
-Drug,Drug,Drug,drug-cocaine-possess,drug-alcohol
-Drug,Drug,Drug,drug-cocaine-sell,drug-alcohol
-Drug,Drug,Drug,drug-hallucinogen-mfr,drug-alcohol
-Drug,Drug,Drug,drug-fraud-to-obtain,drug-alcohol
-Drug,Drug,Drug,drug-methamphetamine-mfr,drug-alcohol
-Drug,Drug,Drug,drug-synth-narcotic-possess,drug-alcohol
-Drug,Drug,Drug,drug-hallucinogen-sell,drug-alcohol
-Drug,Drug,Drug,drug-hallucinogen-possess,drug-alcohol
-Drug,Drug,Drug,drug-synth-narcotic-sell,drug-alcohol
-Drug,Drug,Drug,drug-marijuana-sell,drug-alcohol
-Drug,Drug,Drug,drug-marijuana-cultivation,drug-alcohol
-Drug,Drug,Drug,liquor-other-viol,drug-alcohol
-Drug,Drug,Drug,drug-barbiturate-possess,drug-alcohol
-Drug,Drug,Drug,drug-barbiturate-sell,drug-alcohol
-Drug,Drug,Drug,liquor-misrepresent-age-minor,drug-alcohol
-Drug,Drug,Drug,liquor-manufacturing,drug-alcohol
-Drug,Drug,Drug,drug-barbiturate-mfr,drug-alcohol
-Property,White Collar,Counterfeiting,forgery-counterfeit-of-obj,white-collar-crime
-Property,White Collar,Fraud,fraud-criminal-impersonation,white-collar-crime
-Property,White Collar,Fraud,fraud-by-telephone,white-collar-crime
-Property,White Collar,Fraud,fraud-by-use-of-computer,white-collar-crime
-Property,White Collar,Fraud,fraud-identity-theft,white-collar-crime
-Property,White Collar,Fraud,fraud-nsf-closed-account,white-collar-crime
-Property,White Collar,Fraud,money-laundering,all-other-crimes
-Property,White Collar,Fraud,wiretapping,all-other-crimes
-Property,White Collar,Fraud,theft-of-rental-property,white-collar-crime
-Property,White Collar,Fraud,impersonation-of-police,white-collar-crime
-Property,White Collar,Fraud,altering-vin-number,white-collar-crime
-Property,White Collar,Fraud,forgery-posses-forge-device,white-collar-crime
-Property,White Collar,Fraud,forgery-poss-of-forged-ftd,white-collar-crime
-Property,White Collar,Fraud,forgery-poss-of-forged-inst,white-collar-crime
-Property,White Collar,Fraud,theft-unauth-use-of-ftd,white-collar-crime
-Property,White Collar,Fraud,forgery-checks,white-collar-crime
-Property,White Collar,Fraud,theft-fail-return-rent-veh,white-collar-crime
-Property,White Collar,Fraud,forgery-other,white-collar-crime
-Property,White Collar,Fraud,drug-forgery-to-obtain,white-collar-crime
-Property,White Collar,Fraud,theft-confidence-game,white-collar-crime
-Property,White Collar,Embezzlement,theft-embezzle,white-collar-crime
-Gambling,Gambling,Gambling,gambling-gaming-operation,all-other-crimes
-Gambling,Gambling,Gambling,gambling-device,all-other-crimes
-Gambling,Gambling,Gambling,gambling-betting-wagering,white-collar-crime
+﻿category_1,category_2,category_3,offense_type_id
+Drug,Drug,Drug,drug-hallucinogen-mfr
+Drug,Drug,Drug,drug-hallucinogen-sell
+Drug,Drug,Drug,drug-hallucinogen-possess
+Drug,Drug,Drug,drug-heroin-sell
+Drug,Drug,Drug,drug-heroin-possess
+Drug,Drug,Drug,drug-opium-or-deriv-sell
+Drug,Drug,Drug,drug-opium-or-deriv-possess
+Drug,Drug,Drug,drug-cocaine-sell
+Drug,Drug,Drug,drug-cocaine-possess
+Drug,Drug,Drug,drug-synth-narcotic-sell
+Drug,Drug,Drug,drug-synth-narcotic-possess
+Drug,Drug,Drug,drug-poss-paraphernalia
+Drug,Drug,Drug,drug-marijuana-sell
+Drug,Drug,Drug,drug-marijuana-possess
+Drug,Drug,Drug,drug-marijuana-cultivation
+Drug,Drug,Drug,drug-methamphetamine-mfr
+Drug,Drug,Drug,drug-methampetamine-sell
+Drug,Drug,Drug,drug-methampetamine-possess
+Drug,Drug,Drug,drug-barbiturate-sell
+Drug,Drug,Drug,drug-barbiturate-possess
+Drug,Drug,Drug,drug-pcs-other-drug
+Drug,Drug,Drug,drug-make-sell-other-drug
+Drug,Drug,Drug,liquor-sell
+Drug,Drug,Drug,liquor-possession
+Property,White Collar,Fraud,money-laundering
+Property,Other Property Crime,Other Property Crime,property-crimes-other
+Violent,Homicide,Murder,homicide-family
+Violent,Homicide,Murder,homicide-police-by-gun
+Violent,Homicide,Murder,homicide-other
+Violent,Rape,Rape,sex-aslt-rape
+Violent,Rape,Rape,sex-aslt-rape-pot
+Violent,Rape,Rape,sex-asslt-sodomy-man-strng-arm
+Violent,Rape,Rape,sex-aslt-w-object
+Violent,Rape,Rape,sex-aslt-w-object-pot
+Violent,Robbery,Robbery,robbery-street
+Violent,Robbery,Robbery,robbery-purse-snatch-w-force
+Violent,Robbery,Robbery,robbery-bank
+Violent,Robbery,Robbery,robbery-car-jacking
+Violent,Assault,Aggravated Assault,aslt-agg-police-gun
+Violent,Assault,Aggravated Assault,agg-aslt-police-weapon
+Violent,Assault,Simple Assault,assault-simple
+Violent,Assault,Simple Assault,assault-dv
+Violent,Assault,Simple Assault,assault-police-simple
+Violent,Assault,Aggravated Assault,weapon-fire-into-occ-veh
+Violent,Assault,Aggravated Assault,weapon-fire-into-occ-bldg
+Violent,Assault,Aggravated Assault,aggravated-assault
+Violent,Assault,Aggravated Assault,aggravated-assault-dv
+Violent,Assault,Aggravated Assault,menacing-felony-w-weap
+Property,Arson,Arson,arson-business
+Property,Arson,Arson,arson-residence
+Property,Arson,Arson,arson-other
+Property,Arson,Arson,arson-public-building
+Property,Arson,Arson,arson-vehicle
+Property,Burglary,Unclassified,burglary-safe
+Property,Burglary,Residential Burglary,burglary-residence-by-force
+Property,Burglary,Unclassified,burg-auto-theft-resd-w-force
+Property,Burglary,Non-Residential Burglary,burglary-business-by-force
+Property,Burglary,Unclassified,burg-auto-theft-busn-w-force
+Property,Burglary,Residential Burglary,burglary-residence-no-force
+Property,Burglary,Unclassified,burg-auto-theft-resd-no-force
+Property,Burglary,Non-Residential Burglary,burglary-business-no-force
+Property,Burglary,Unclassified,burg-auto-theft-busn-no-force
+Property,Burglary,Unclassified,burglary-poss-of-tools
+Property,Theft,Unclassified,theft-pick-pocket
+Property,Theft,Unclassified,theft-purse-snatch-no-force
+Property,Theft,Unclassified,theft-shoplift
+Property,Theft,Theft from Auto,theft-parts-from-vehicle
+Property,Theft,Theft from Auto,theft-items-from-vehicle
+Property,Theft,Unclassified,burglary-vending-machine
+Property,Theft,Unclassified,theft-from-bldg
+Property,Theft,Unclassified,theft-from-mails
+Property,Theft,Unclassified,theft-other
+Property,Theft,Unclassified,theft-bicycle
+Property,Theft,Unclassified,theft-gas-drive-off
+Property,Theft,Unclassified,theft-of-cable-services
+Property,Theft,Grand Larceny Auto,theft-stln-veh-const-eqpt
+Property,Theft,Grand Larceny Auto,theft-stln-vehicle-trailer
+Property,Theft,Grand Larceny Auto,theft-of-motor-vehicle
+Property,White Collar,Fraud,forgery-checks
+Property,White Collar,Counterfeiting,forgery-counterfeit-of-obj
+Property,White Collar,Fraud,forgery-poss-of-forged-inst
+Property,White Collar,Fraud,forgery-poss-of-forged-ftd
+Property,White Collar,Fraud,forgery-posses-forge-device
+Property,White Collar,Fraud,forgery-other
+Property,White Collar,Fraud,drug-forgery-to-obtain
+Property,White Collar,Fraud,theft-confidence-game
+Property,White Collar,Fraud,theft-of-rental-property
+Property,White Collar,Fraud,theft-fail-return-rent-veh
+Property,White Collar,Fraud,fraud-identity-theft
+Property,White Collar,Fraud,fraud-criminal-impersonation
+Property,White Collar,Fraud,impersonation-of-police
+Property,White Collar,Fraud,theft-unauth-use-of-ftd
+Property,White Collar,Fraud,fraud-nsf-closed-account
+Property,White Collar,Fraud,fraud-by-telephone
+Property,White Collar,Fraud,fraud-by-use-of-computer
+Property,Theft,Unclassified,theft-of-services
+Drug,Drug,Drug,drug-fraud-to-obtain
+Property,White Collar,Embezzlement,theft-embezzle
+Property,White Collar,Fraud,altering-vin-number
+Drug,Drug,Drug,liquor-manufacturing
+Violent,Homicide,Murder,homicide-negligent
